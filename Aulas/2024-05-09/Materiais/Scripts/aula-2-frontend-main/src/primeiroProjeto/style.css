@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	background-color: #0C2D57;	
+	color:  #FFB0B0;
+}
+
+button{
+	background-color: #FC6736;
+	color: #FFB0B0;
+	font-size: 2rem;
+	
+}
+
+h3{
+	font-size:  3rem;
+	color: #AF47D2;
+}

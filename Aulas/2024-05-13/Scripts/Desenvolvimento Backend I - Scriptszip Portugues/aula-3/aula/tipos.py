@@ -1,0 +1,6 @@
+print('tipo int', 1,'=>', type(1))
+print('tipo float', 1.5,'=>', type(1.5))
+print('tipo str', 'String','=>', type('String'))
+print('tipo bool', True,'=>', type(True))
+print('tipo bool', False,'=>', type(False))
+print('tipo list', [1,2,3],'=>', type([1,2,3]))

@@ -1,0 +1,98 @@
+07/05/2024
+*Clean code 
+	Robert C martin 	
+	https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675
+	C:\Users\elima\Documents\USP-ESALQ\Aulas\Livros\Clean code Robert C martin  isbn 8576082675\torrent\codigo-limpo-robert-martin
+	
+	
+	
+	Luygar para baixar livros 
+	https://archive.org/details/codigo-limpo-robert-martin
+	
+	
+	* Estudar sobre TDD 
+		https://www.treinaweb.com.br/blog/afinal-o-que-e-tdd
+		 
+		 
+	*Ler sobre design patterns (pesquisar sobre)
+	
+	*React :
+		Biblioteca JS p\ Interface
+		
+	*Framework (pesquisar definicao formal)
+		E um bloco de codigo que facilita a produtividade
+		
+	*Movimento do mercado em especial o americano 
+		Evitar Framework aplicacoes com javascript puro
+		
+	*Ler state of js
+		https://stateofjs.com/en-US
+		
+	*Fucar no W3SCHOOLS 
+		https://www.w3schools.com/
+		
+	*PESQUISAR SOBRE htmx
+		https://htmx.org/
+		https://blog.rocketseat.com.br/htmx-html-com-super-poderes/
+		https://labcodes.com.br/blog/pt-br/development/pros-e-contras-para-um-iniciante-no-htmx/
+		
+	*Refrescar conceitos metodologia AGIL
+	
+	*Estudar MUITO pyton
+	
+	*Estudar ruby on rails para iniciantes
+	
+	
+	*Software Orientado a pessoasl (Programacao Orientado a pessoas)
+	
+	*Principio da engenharia de software:
+		Codigos Irao mudar e dever ser inteligiveis 
+		
+	*Ferramentas UX 
+		Figma.com
+		https://www.figma.com/design/dF0Hx4WZY1r01GlvLNDex4/Figma-basics?node-id=4368-321189&t=CnBfIJrAyvGHalMC-0
+		ColorHunt
+		https://colorhunt.co/
+		
+		
+	*Estudar JavScript
+	
+	
+	*Unidades de medida Relativa
+		REM (O rem é uma das unidades de medida mais usadas no desenvolvimento front-end, porém nem todos entendem como essa medida funciona. Então, vamos entendê-la, 1rem é igual ao tamanho padrão da fonte da raiz(root) do documento, normalmente 16px, logo 1rem é igual à 16px.)
+		https://www.treinaweb.com.br/blog/unidades-de-medidas-no-css#:~:text=O%20rem%20%C3%A9%20uma%20das,1rem%20%C3%A9%20igual%20%C3%A0%2016px.
+		
+		1 Rem Aproximadamente 16Px
+	
+	
+	*Padrao de nomenclatura CSS 
+		BEM CSS (РУСКИ) https://desenvolvimentoparaweb.com/css/bem/
+			https://getbem.com/
+			
+			anotacoes em papel transpor anotacoes para bloco de notas e pesquisar mais a fundon (interessante)
+		
+		
+	
+		
+	CSS 
+		Sempre quando ha um "." (ponto ) é uma classe
+		quando nao e uma tag
+		
+		css-tricks.com aguide to flexbox
+		https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (tutorial flexbox)
+		
+		
+		Justify-contentÇspace-evenly
+		
+		
+	Pontos a pesquisar:
+		Gestao de estado:
+			https://medium.com/android-dev-moz/gerenciamento-de-estado-introdu%C3%A7%C3%A3o-5854e85f50e9
+			https://www.dio.me/articles/o-que-e-um-gerenciamento-de-estado-em-aplicacoes-web
+			https://awari.com.br/gerenciamento-de-estado-no-front-end-tudo-o-que-voce-precisa-saber-3/
+			
+			
+			
+			
+
+		
