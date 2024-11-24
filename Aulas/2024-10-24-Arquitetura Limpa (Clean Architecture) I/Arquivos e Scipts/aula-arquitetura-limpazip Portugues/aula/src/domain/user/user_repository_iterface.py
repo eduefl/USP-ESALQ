@@ -1,4 +1,4 @@
-from abc import ABC, abstractclassmethod
+from abc import ABC, abstractmethod
 from domain.user.user_entity import User
 from uuid import UUID 
 from typing import List
@@ -7,18 +7,18 @@ from typing import List
 
 class UserRepositoryInterface(ABC):
     
-    @abstractclassmethod
+    @abstractmethod
     def add_user(self, user: User) -> None:
         raise NotImplementedError
     
-    @abstractclassmethod
+    @abstractmethod
     def find_user(self, user_id: UUID) -> User:
         raise NotImplementedError    
     
-    @abstractclassmethod
+    @abstractmethod
     def update_user(self, user: User) -> None:
-        raise NotImplementedError        
+        raise NotImplementedError
     
-    @abstractclassmethod
+    @abstractmethod
     def list_users(self) -> List[User]:
         raise NotImplementedError            

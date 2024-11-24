@@ -30,14 +30,14 @@ class UserRepository(UserRepositoryInterface):
 
     def list_users(self) -> List[User]:
 
-        users_in_db = self.session.query(UserModel).all()
+        users_in_db = self.session.query(UserModel).all
 
         users = []
 
         for user_in_db in users_in_db:
             users.append(User(id=user_in_db.id, name=user_in_db.name))
 
-        return users
+        return super().list_users
 
     def update_user(self, user: User) -> None:
 

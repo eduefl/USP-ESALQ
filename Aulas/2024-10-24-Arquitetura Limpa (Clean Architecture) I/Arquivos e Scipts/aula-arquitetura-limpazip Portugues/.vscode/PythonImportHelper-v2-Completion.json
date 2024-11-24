@@ -1,0 +1,3215 @@
+[
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractclassmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskOutputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskInputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskInputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskOutputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskOutputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskInputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskInputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskOutputDto",
+        "importPath": "usecases.task.find_task.find_task_dto",
+        "description": "usecases.task.find_task.find_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserOutputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserInputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserInputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserOutputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "TaskOutputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserInputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserInputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserOutputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "TaskOutputDto",
+        "importPath": "usecases.user.find_user.find_user_dto",
+        "description": "usecases.user.find_user.find_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_tables",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_tables",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "infrastructure.api.database",
+        "description": "infrastructure.api.database",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepository",
+        "importPath": "infrastructure.task.sqlalchemy.task_repository",
+        "description": "infrastructure.task.sqlalchemy.task_repository",
+        "isExtraImport": true,
+        "detail": "infrastructure.task.sqlalchemy.task_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepository",
+        "importPath": "infrastructure.task.sqlalchemy.task_repository",
+        "description": "infrastructure.task.sqlalchemy.task_repository",
+        "isExtraImport": true,
+        "detail": "infrastructure.task.sqlalchemy.task_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepository",
+        "importPath": "infrastructure.task.sqlalchemy.task_repository",
+        "description": "infrastructure.task.sqlalchemy.task_repository",
+        "isExtraImport": true,
+        "detail": "infrastructure.task.sqlalchemy.task_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepository",
+        "importPath": "infrastructure.task.sqlalchemy.task_repository",
+        "description": "infrastructure.task.sqlalchemy.task_repository",
+        "isExtraImport": true,
+        "detail": "infrastructure.task.sqlalchemy.task_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskInputDto",
+        "importPath": "usecases.task.complete_task.complete_task_dto",
+        "description": "usecases.task.complete_task.complete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskInputDto",
+        "importPath": "usecases.task.complete_task.complete_task_dto",
+        "description": "usecases.task.complete_task.complete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskOutputDto",
+        "importPath": "usecases.task.complete_task.complete_task_dto",
+        "description": "usecases.task.complete_task.complete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskInputDto",
+        "importPath": "usecases.task.complete_task.complete_task_dto",
+        "description": "usecases.task.complete_task.complete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskInputDto",
+        "importPath": "usecases.task.complete_task.complete_task_dto",
+        "description": "usecases.task.complete_task.complete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskOutputDto",
+        "importPath": "usecases.task.complete_task.complete_task_dto",
+        "description": "usecases.task.complete_task.complete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskUseCase",
+        "importPath": "usecases.task.complete_task.complete_task_usecase",
+        "description": "usecases.task.complete_task.complete_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskUseCase",
+        "importPath": "usecases.task.complete_task.complete_task_usecase",
+        "description": "usecases.task.complete_task.complete_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.complete_task.complete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskInputDto",
+        "importPath": "usecases.task.delete_task.delete_task_dto",
+        "description": "usecases.task.delete_task.delete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskInputDto",
+        "importPath": "usecases.task.delete_task.delete_task_dto",
+        "description": "usecases.task.delete_task.delete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskOutputDto",
+        "importPath": "usecases.task.delete_task.delete_task_dto",
+        "description": "usecases.task.delete_task.delete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskInputDto",
+        "importPath": "usecases.task.delete_task.delete_task_dto",
+        "description": "usecases.task.delete_task.delete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskInputDto",
+        "importPath": "usecases.task.delete_task.delete_task_dto",
+        "description": "usecases.task.delete_task.delete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskOutputDto",
+        "importPath": "usecases.task.delete_task.delete_task_dto",
+        "description": "usecases.task.delete_task.delete_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskUseCase",
+        "importPath": "usecases.task.delete_task.delete_task_usecase",
+        "description": "usecases.task.delete_task.delete_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskUseCase",
+        "importPath": "usecases.task.delete_task.delete_task_usecase",
+        "description": "usecases.task.delete_task.delete_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.delete_task.delete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskUseCase",
+        "importPath": "usecases.task.find_task.find_task_usecase",
+        "description": "usecases.task.find_task.find_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskUseCase",
+        "importPath": "usecases.task.find_task.find_task_usecase",
+        "description": "usecases.task.find_task.find_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.find_task.find_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskInputDto",
+        "importPath": "usecases.task.register_task.register_task_dto",
+        "description": "usecases.task.register_task.register_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskInputDto",
+        "importPath": "usecases.task.register_task.register_task_dto",
+        "description": "usecases.task.register_task.register_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskOutputDto",
+        "importPath": "usecases.task.register_task.register_task_dto",
+        "description": "usecases.task.register_task.register_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskInputDto",
+        "importPath": "usecases.task.register_task.register_task_dto",
+        "description": "usecases.task.register_task.register_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskInputDto",
+        "importPath": "usecases.task.register_task.register_task_dto",
+        "description": "usecases.task.register_task.register_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskOutputDto",
+        "importPath": "usecases.task.register_task.register_task_dto",
+        "description": "usecases.task.register_task.register_task_dto",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskUseCase",
+        "importPath": "usecases.task.register_task.register_task_usecase",
+        "description": "usecases.task.register_task.register_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskUseCase",
+        "importPath": "usecases.task.register_task.register_task_usecase",
+        "description": "usecases.task.register_task.register_task_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.task.register_task.register_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "TaskPresenter",
+        "importPath": "infrastructure.api.presenters.task_presenter",
+        "description": "infrastructure.api.presenters.task_presenter",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.presenters.task_presenter",
+        "documentation": {}
+    },
+    {
+        "label": "TaskPresenter",
+        "importPath": "infrastructure.api.presenters.task_presenter",
+        "description": "infrastructure.api.presenters.task_presenter",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.presenters.task_presenter",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserInputDto",
+        "importPath": "usecases.user.add_user.add_user_dto",
+        "description": "usecases.user.add_user.add_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserInputDto",
+        "importPath": "usecases.user.add_user.add_user_dto",
+        "description": "usecases.user.add_user.add_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserOutputDto",
+        "importPath": "usecases.user.add_user.add_user_dto",
+        "description": "usecases.user.add_user.add_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserInputDto",
+        "importPath": "usecases.user.add_user.add_user_dto",
+        "description": "usecases.user.add_user.add_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserInputDto",
+        "importPath": "usecases.user.add_user.add_user_dto",
+        "description": "usecases.user.add_user.add_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserOutputDto",
+        "importPath": "usecases.user.add_user.add_user_dto",
+        "description": "usecases.user.add_user.add_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserInputDto",
+        "importPath": "usecases.user.update_user.update_user_dto",
+        "description": "usecases.user.update_user.update_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserInputDto",
+        "importPath": "usecases.user.update_user.update_user_dto",
+        "description": "usecases.user.update_user.update_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUseroUTPUTDto",
+        "importPath": "usecases.user.update_user.update_user_dto",
+        "description": "usecases.user.update_user.update_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserInputDto",
+        "importPath": "usecases.user.update_user.update_user_dto",
+        "description": "usecases.user.update_user.update_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserOutputDto",
+        "importPath": "usecases.user.update_user.update_user_dto",
+        "description": "usecases.user.update_user.update_user_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "infrastructure.user.sqlalchemy.user_repository",
+        "description": "infrastructure.user.sqlalchemy.user_repository",
+        "isExtraImport": true,
+        "detail": "infrastructure.user.sqlalchemy.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "infrastructure.user.sqlalchemy.user_repository",
+        "description": "infrastructure.user.sqlalchemy.user_repository",
+        "isExtraImport": true,
+        "detail": "infrastructure.user.sqlalchemy.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserUseCase",
+        "importPath": "usecases.user.add_user.add_user_usecase",
+        "description": "usecases.user.add_user.add_user_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserUseCase",
+        "importPath": "usecases.user.add_user.add_user_usecase",
+        "description": "usecases.user.add_user.add_user_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.user.add_user.add_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserUseCase",
+        "importPath": "usecases.user.update_user.update_user_usecase",
+        "description": "usecases.user.update_user.update_user_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.user.update_user.update_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserUseCase",
+        "importPath": "usecases.user.find_user.find_user_usecase",
+        "description": "usecases.user.find_user.find_user_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserUseCase",
+        "importPath": "usecases.user.find_user.find_user_usecase",
+        "description": "usecases.user.find_user.find_user_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.user.find_user.find_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "LisUsersUseCase",
+        "importPath": "usecases.user.list_users.list_users_usecase",
+        "description": "usecases.user.list_users.list_users_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersUseCase",
+        "importPath": "usecases.user.list_users.list_users_usecase",
+        "description": "usecases.user.list_users.list_users_usecase",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersInputDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersInputDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersOutputDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UserDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersInputDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersInputDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersOutputDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UserDto",
+        "importPath": "usecases.user.list_users.list_users_dto",
+        "description": "usecases.user.list_users.list_users_dto",
+        "isExtraImport": true,
+        "detail": "usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UserPresenter",
+        "importPath": "infrastructure.api.presenters.user_presenter",
+        "description": "infrastructure.api.presenters.user_presenter",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.presenters.user_presenter",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "user_routers",
+        "importPath": "infrastructure.api.routers",
+        "description": "infrastructure.api.routers",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "task_routers",
+        "importPath": "infrastructure.api.routers",
+        "description": "infrastructure.api.routers",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "user_routers",
+        "importPath": "infrastructure.api.routers",
+        "description": "infrastructure.api.routers",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "task_routers",
+        "importPath": "infrastructure.api.routers",
+        "description": "infrastructure.api.routers",
+        "isExtraImport": true,
+        "detail": "infrastructure.api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "importPath": "domain.task.task_repository_interface",
+        "description": "domain.task.task_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm.session",
+        "description": "sqlalchemy.orm.session",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm.session",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm.session",
+        "description": "sqlalchemy.orm.session",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm.session",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm.session",
+        "description": "sqlalchemy.orm.session",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm.session",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm.session",
+        "description": "sqlalchemy.orm.session",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm.session",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "importPath": "infrastructure.task.sqlalchemy.task_model",
+        "description": "infrastructure.task.sqlalchemy.task_model",
+        "isExtraImport": true,
+        "detail": "infrastructure.task.sqlalchemy.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "importPath": "infrastructure.task.sqlalchemy.task_model",
+        "description": "infrastructure.task.sqlalchemy.task_model",
+        "isExtraImport": true,
+        "detail": "infrastructure.task.sqlalchemy.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_iterface",
+        "description": "domain.user.user_repository_iterface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_iterface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_iterface",
+        "description": "domain.user.user_repository_iterface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_iterface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_iterface",
+        "description": "domain.user.user_repository_iterface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_iterface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_iterface",
+        "description": "domain.user.user_repository_iterface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_iterface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_iterface",
+        "description": "domain.user.user_repository_iterface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_iterface",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "infrastructure.user.sqlalchemy.user_model",
+        "description": "infrastructure.user.sqlalchemy.user_model",
+        "isExtraImport": true,
+        "detail": "infrastructure.user.sqlalchemy.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "infrastructure.user.sqlalchemy.user_model",
+        "description": "infrastructure.user.sqlalchemy.user_model",
+        "isExtraImport": true,
+        "detail": "infrastructure.user.sqlalchemy.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "importPath": "domain.__seedwork.use_case_interface",
+        "description": "domain.__seedwork.use_case_interface",
+        "isExtraImport": true,
+        "detail": "domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "aula.src.domain.task.task_entity",
+        "description": "aula.src.domain.task.task_entity",
+        "peekOfCode": "class Task:\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool\n    def __init__(\n        self, id: UUID, user_id: UUID, title: str, description: str, completed: bool\n    ):\n        self.id = id",
+        "detail": "aula.src.domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "kind": 6,
+        "importPath": "aula.src.domain.task.task_repository_interface",
+        "description": "aula.src.domain.task.task_repository_interface",
+        "peekOfCode": "class TaskRepositoryInterface(ABC):\n    @abstractmethod\n    def register_task(self, task: Task) -> None:\n        raise NotImplementedError\n    @abstractmethod\n    def find_task(self, task_id: UUID) -> Task:\n        raise NotImplementedError\n    @abstractmethod\n    def list_tasks_from_user(self, user_id: UUID) -> List[Task]:\n        raise NotImplementedError",
+        "detail": "aula.src.domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "aula.src.domain.user.user_entity",
+        "description": "aula.src.domain.user.user_entity",
+        "peekOfCode": "class User:\n    id: UUID\n    name: str\n    tasks: List[Task]\n    def __init__(self, id: UUID, name: str ):\n        self.id = id\n        self.name = name\n        self.tasks =[]\n        self.validate()\n    def validate(self):",
+        "detail": "aula.src.domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "kind": 6,
+        "importPath": "aula.src.domain.user.user_repository_iterface",
+        "description": "aula.src.domain.user.user_repository_iterface",
+        "peekOfCode": "class UserRepositoryInterface(ABC):\n    @abstractmethod\n    def add_user(self, user: User) -> None:\n        raise NotImplementedError\n    @abstractmethod\n    def find_user(self, user_id: UUID) -> User:\n        raise NotImplementedError    \n    @abstractmethod\n    def update_user(self, user: User) -> None:\n        raise NotImplementedError",
+        "detail": "aula.src.domain.user.user_repository_iterface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "kind": 6,
+        "importPath": "aula.src.domain.__seedwork.use_case_interface",
+        "description": "aula.src.domain.__seedwork.use_case_interface",
+        "peekOfCode": "class UseCaseInterface(ABC):\n    @abstractclassmethod\n    def execute(self, input: Any) -> Any:\n        raise NotImplementedError",
+        "detail": "aula.src.domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskPresenter",
+        "kind": 6,
+        "importPath": "aula.src.infrastructure.api.presenters.task_presenter",
+        "description": "aula.src.infrastructure.api.presenters.task_presenter",
+        "peekOfCode": "class TaskPresenter:\n    @staticmethod\n    def toJSON(task: FindTaskOutputDto) -> dict:\n        return {\n            \"id\": str(task.id),\n            \"user_id\": str(task.user_id),\n            \"title\": task.title,\n            \"description\": task.description,\n            \"completed\": task.completed,\n        }",
+        "detail": "aula.src.infrastructure.api.presenters.task_presenter",
+        "documentation": {}
+    },
+    {
+        "label": "UserPresenter",
+        "kind": 6,
+        "importPath": "aula.src.infrastructure.api.presenters.user_presenter",
+        "description": "aula.src.infrastructure.api.presenters.user_presenter",
+        "peekOfCode": "class UserPresenter:\n    @staticmethod\n    def toJSOn(user_dto: FindUserOutputDto) -> dict:\n        return{\n            \"id\": str(user_dto.id),\n            \"name\": str(user_dto.name)\n        }\n    @staticmethod\n    def toXML(user_dto: FindUserOutputDto) -> str:\n        user_data = ET.Element(\"user\")",
+        "detail": "aula.src.infrastructure.api.presenters.user_presenter",
+        "documentation": {}
+    },
+    {
+        "label": "register_task",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.task_routers",
+        "description": "aula.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def register_task(\n    request: RegisterTaskInputDto, session: Session = Depends(get_session)\n):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = RegisterTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=request)\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "aula.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "find_task",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.task_routers",
+        "description": "aula.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def find_task(task_id: UUID, session: Session = Depends(get_session)):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = FindTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=FindTaskInputDto(id=task_id))\n        output_xml = TaskPresenter.toXML(output)\n        output_json = TaskPresenter.toJSON(output)\n        return {\"json\": output_json, \"xml\": output_xml}\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "aula.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "complete_task",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.task_routers",
+        "description": "aula.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def complete_task(task_id: UUID, session: Session = Depends(get_session)):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = CompleteTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=CompleteTaskInputDto(id=task_id))\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))\n@router.delete(\"/{task_id}\")\ndef delete_task(task_id: UUID, session: Session = Depends(get_session)):",
+        "detail": "aula.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.task_routers",
+        "description": "aula.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def delete_task(task_id: UUID, session: Session = Depends(get_session)):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = DeleteTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=DeleteTaskInputDto(id=task_id))\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "aula.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "aula.src.infrastructure.api.routers.task_routers",
+        "description": "aula.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "router = APIRouter(prefix=\"/tasks\", tags=[\"Tasks\"])\n@router.post(\"/\")\ndef register_task(\n    request: RegisterTaskInputDto, session: Session = Depends(get_session)\n):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = RegisterTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=request)\n        return output",
+        "detail": "aula.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "upd_user",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.user_routers",
+        "description": "aula.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "def upd_user(request: UpdateUserInputDto, session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session= session)\n        usecase = UpdateUserUseCase(user_repository=user_repository)\n        output = usecase.execute(input = request)\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))\n#http://localhost:8000/users/\n@router.post(\"/\")",
+        "detail": "aula.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.user_routers",
+        "description": "aula.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "def add_user(request: AddUserInputDto, session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session= session)\n        usecase = AddUserUseCase(user_repository=user_repository)\n        output = usecase.execute(input = request)\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))\n#  encontrar usuario\n#http://localhost:8000/users/{user_id}",
+        "detail": "aula.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "find_user",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.user_routers",
+        "description": "aula.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "def find_user(user_id: UUID,session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session= session)\n        task_repository = TaskRepository(session= session)\n        usecase = FindUserUseCase(user_repository=user_repository,task_repository=task_repository)\n        output = usecase.execute(input = FindUserInputDto(id = user_id))\n        # output_json = UserPresenter.toJSOn(user_dto=output)\n        # output_xml = UserPresenter.toXML(user_dto=output)\n        # output_json_pt_br = UserPresenter.toJSOnPTBR(user_dto=output)\n        # return {\"json\":output_json, \"xml\": output_xml, \"SoNoBrasil\":output_json_pt_br}",
+        "detail": "aula.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "list_user",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.routers.user_routers",
+        "description": "aula.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "def list_user(session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session= session)\n        usecase = LisUsersUseCase(user_repository=user_repository)\n        output = usecase.execute(input = ListUsersInputDto())\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "aula.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "aula.src.infrastructure.api.routers.user_routers",
+        "description": "aula.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "router = APIRouter(prefix = \"/users\", tags=[\"Users\"])\n#http://localhost:8000/users/upd\n@router.post(\"/upd\")\ndef upd_user(request: UpdateUserInputDto, session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session= session)\n        usecase = UpdateUserUseCase(user_repository=user_repository)\n        output = usecase.execute(input = request)\n        return output\n    except Exception as e:",
+        "detail": "aula.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "aula.src.infrastructure.api.config",
+        "description": "aula.src.infrastructure.api.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    CONNECTION: str = Field(...,env=\"CONNECTION\")\nsettings = Settings()",
+        "detail": "aula.src.infrastructure.api.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "aula.src.infrastructure.api.config",
+        "description": "aula.src.infrastructure.api.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "aula.src.infrastructure.api.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.database",
+        "description": "aula.src.infrastructure.api.database",
+        "peekOfCode": "def get_session():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "aula.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_tables",
+        "kind": 2,
+        "importPath": "aula.src.infrastructure.api.database",
+        "description": "aula.src.infrastructure.api.database",
+        "peekOfCode": "def create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "aula.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "aula.src.infrastructure.api.database",
+        "description": "aula.src.infrastructure.api.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit =False, autoflush= False, bind=engine)\nBase = declarative_base()\ndef get_session():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "aula.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "aula.src.infrastructure.api.database",
+        "description": "aula.src.infrastructure.api.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_session():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "aula.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "aula.src.infrastructure.api.main",
+        "description": "aula.src.infrastructure.api.main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(user_routers.router)\napp.include_router(task_routers.router)\ncreate_tables()",
+        "detail": "aula.src.infrastructure.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "kind": 6,
+        "importPath": "aula.src.infrastructure.task.sqlalchemy.task_model",
+        "description": "aula.src.infrastructure.task.sqlalchemy.task_model",
+        "peekOfCode": "class TaskModel(Base):\n    __tablename__ = \"tb_tasks\"\n    id = Column(UUID, primary_key=True, index=True)\n    user_id = Column(UUID, ForeignKey(\"tb_users.id\", ondelete=\"CASCADE\"))\n    title = Column(String)\n    description = Column(String)\n    completed = Column(Boolean)",
+        "detail": "aula.src.infrastructure.task.sqlalchemy.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepository",
+        "kind": 6,
+        "importPath": "aula.src.infrastructure.task.sqlalchemy.task_repository",
+        "description": "aula.src.infrastructure.task.sqlalchemy.task_repository",
+        "peekOfCode": "class TaskRepository(TaskRepositoryInterface):\n    def __init__(self, session: Session):\n        self.session: Session = session\n    def register_task(self, task: Task) -> None:\n        try:\n            task_model = TaskModel(\n                id=task.id,\n                user_id=task.user_id,\n                title=task.title,\n                description=task.description,",
+        "detail": "aula.src.infrastructure.task.sqlalchemy.task_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "aula.src.infrastructure.user.sqlalchemy.user_model",
+        "description": "aula.src.infrastructure.user.sqlalchemy.user_model",
+        "peekOfCode": "class UserModel(Base):\n    __tablename__ = \"tb_users\"\n    id = Column(UUID, primary_key= True, index=True)\n    name = Column(String)",
+        "detail": "aula.src.infrastructure.user.sqlalchemy.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "kind": 6,
+        "importPath": "aula.src.infrastructure.user.sqlalchemy.user_repository",
+        "description": "aula.src.infrastructure.user.sqlalchemy.user_repository",
+        "peekOfCode": "class UserRepository(UserRepositoryInterface):\n    session: Session\n    def __init__(self, session: Session):\n        self.session = session\n    def add_user(self, user: User) -> None:\n        user_model = UserModel(id= user.id, name = user.name)\n        self.session.add(user_model)\n        self.session.commit()\n        return None    \n    def find_user(self, user_id: UUID) -> User:",
+        "detail": "aula.src.infrastructure.user.sqlalchemy.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.complete_task.complete_task_dto",
+        "description": "aula.src.usecases.task.complete_task.complete_task_dto",
+        "peekOfCode": "class CompleteTaskInputDto(BaseModel):\n    id: UUID\nclass CompleteTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "aula.src.usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.complete_task.complete_task_dto",
+        "description": "aula.src.usecases.task.complete_task.complete_task_dto",
+        "peekOfCode": "class CompleteTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "aula.src.usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.complete_task.complete_task_usecase",
+        "description": "aula.src.usecases.task.complete_task.complete_task_usecase",
+        "peekOfCode": "class CompleteTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: CompleteTaskInputDto) -> CompleteTaskOutputDto:\n        task = self.task_repository.find_task(task_id=input.id)\n        task.mark_as_completed()\n        self.task_repository.update_task(task=task)\n        return CompleteTaskOutputDto(\n            id=task.id,\n            user_id=task.user_id,",
+        "detail": "aula.src.usecases.task.complete_task.complete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.delete_task.delete_task_dto",
+        "description": "aula.src.usecases.task.delete_task.delete_task_dto",
+        "peekOfCode": "class DeleteTaskInputDto(BaseModel):\n    id: UUID\nclass DeleteTaskOutputDto(BaseModel):\n    message: str",
+        "detail": "aula.src.usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.delete_task.delete_task_dto",
+        "description": "aula.src.usecases.task.delete_task.delete_task_dto",
+        "peekOfCode": "class DeleteTaskOutputDto(BaseModel):\n    message: str",
+        "detail": "aula.src.usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.delete_task.delete_task_usecase",
+        "description": "aula.src.usecases.task.delete_task.delete_task_usecase",
+        "peekOfCode": "class DeleteTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: DeleteTaskInputDto) -> DeleteTaskOutputDto:\n        self.task_repository.delete_task(task_id=input.id)\n        return DeleteTaskOutputDto(\n            message=f\"task with id {input.id} deleted successfully.\"\n        )",
+        "detail": "aula.src.usecases.task.delete_task.delete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.find_task.find_task_dto",
+        "description": "aula.src.usecases.task.find_task.find_task_dto",
+        "peekOfCode": "class FindTaskInputDto(BaseModel):\n    id: UUID\nclass FindTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "aula.src.usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.find_task.find_task_dto",
+        "description": "aula.src.usecases.task.find_task.find_task_dto",
+        "peekOfCode": "class FindTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "aula.src.usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.find_task.find_task_usecase",
+        "description": "aula.src.usecases.task.find_task.find_task_usecase",
+        "peekOfCode": "class FindTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: FindTaskInputDto) -> FindTaskOutputDto:\n        task = self.task_repository.find_task(task_id=input.id)\n        return FindTaskOutputDto(\n            id=task.id,\n            user_id=task.user_id,\n            title=task.title,\n            description=task.description,",
+        "detail": "aula.src.usecases.task.find_task.find_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.register_task.register_task_dto",
+        "description": "aula.src.usecases.task.register_task.register_task_dto",
+        "peekOfCode": "class RegisterTaskInputDto(BaseModel):\n    user_id: UUID\n    title: str\n    description: str\nclass RegisterTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "aula.src.usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.register_task.register_task_dto",
+        "description": "aula.src.usecases.task.register_task.register_task_dto",
+        "peekOfCode": "class RegisterTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "aula.src.usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.task.register_task.register_task_usecase",
+        "description": "aula.src.usecases.task.register_task.register_task_usecase",
+        "peekOfCode": "class RegisterTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: RegisterTaskInputDto) -> RegisterTaskOutputDto:\n        task = Task(\n            id=uuid4(),\n            user_id=input.user_id,\n            title=input.title,\n            description=input.description,\n            completed=False,",
+        "detail": "aula.src.usecases.task.register_task.register_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.add_user.add_user_dto",
+        "description": "aula.src.usecases.user.add_user.add_user_dto",
+        "peekOfCode": "class AddUserInputDto(BaseModel):\n    name: str\n# output\nclass AddUserOutputDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "aula.src.usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.add_user.add_user_dto",
+        "description": "aula.src.usecases.user.add_user.add_user_dto",
+        "peekOfCode": "class AddUserOutputDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "aula.src.usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.add_user.add_user_usecase",
+        "description": "aula.src.usecases.user.add_user.add_user_usecase",
+        "peekOfCode": "class AddUserUseCase(UseCaseInterface):\n    user_repository: UserRepositoryInterface\n    def __init__ (self, user_repository: UserRepositoryInterface):\n        self.user_repository= user_repository\n    def execute(self,input: AddUserInputDto) -> AddUserOutputDto:\n        user = User(id = uuid.uuid4(), name= input.name)\n        self.user_repository.add_user(user =user)\n        # Melhor tratar os erros na validacao da entidade e no repositorio evitar tratar erro no caso de uso -(mas se quiser pode) \n        return AddUserOutputDto(id= user.id, name = user.name)\n# user_repository = UserRepository(session=session)",
+        "detail": "aula.src.usecases.user.add_user.add_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.find_user.find_user_dto",
+        "description": "aula.src.usecases.user.find_user.find_user_dto",
+        "peekOfCode": "class FindUserInputDto(BaseModel):\n    id: UUID\nclass TaskOutputDto(BaseModel):\n    id: UUID\n    title: str\n    description: str\n    completed: bool \n# output\nclass FindUserOutputDto(BaseModel):\n    id: UUID",
+        "detail": "aula.src.usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "TaskOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.find_user.find_user_dto",
+        "description": "aula.src.usecases.user.find_user.find_user_dto",
+        "peekOfCode": "class TaskOutputDto(BaseModel):\n    id: UUID\n    title: str\n    description: str\n    completed: bool \n# output\nclass FindUserOutputDto(BaseModel):\n    id: UUID\n    name: str\n    tasks: List[TaskOutputDto]",
+        "detail": "aula.src.usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.find_user.find_user_dto",
+        "description": "aula.src.usecases.user.find_user.find_user_dto",
+        "peekOfCode": "class FindUserOutputDto(BaseModel):\n    id: UUID\n    name: str\n    tasks: List[TaskOutputDto]\n    pending_tasks: int",
+        "detail": "aula.src.usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.find_user.find_user_usecase",
+        "description": "aula.src.usecases.user.find_user.find_user_usecase",
+        "peekOfCode": "class FindUserUseCase(UseCaseInterface):\n    user_repository: UserRepositoryInterface \n    task_repository:  TaskRepositoryInterface\n    def __init__(self,\n                 user_repository: UserRepositoryInterface,\n                  task_repository: TaskRepositoryInterface):\n        self.user_repository = user_repository\n        self.task_repository = task_repository\n    def execute(self, input: FindUserInputDto)->FindUserOutputDto:\n        user = self.user_repository.find_user(user_id=input.id)",
+        "detail": "aula.src.usecases.user.find_user.find_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.list_users.list_users_dto",
+        "description": "aula.src.usecases.user.list_users.list_users_dto",
+        "peekOfCode": "class ListUsersInputDto(BaseModel):\n    pass\n# OUTPUT\nclass UserDto(BaseModel):\n        id: UUID\n        name: str\n# OUTPUT\nclass ListUsersOutputDto(BaseModel):\n    users: List[UserDto]",
+        "detail": "aula.src.usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UserDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.list_users.list_users_dto",
+        "description": "aula.src.usecases.user.list_users.list_users_dto",
+        "peekOfCode": "class UserDto(BaseModel):\n        id: UUID\n        name: str\n# OUTPUT\nclass ListUsersOutputDto(BaseModel):\n    users: List[UserDto]",
+        "detail": "aula.src.usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersOutputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.list_users.list_users_dto",
+        "description": "aula.src.usecases.user.list_users.list_users_dto",
+        "peekOfCode": "class ListUsersOutputDto(BaseModel):\n    users: List[UserDto]",
+        "detail": "aula.src.usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "LisUsersUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.list_users.list_users_usecase",
+        "description": "aula.src.usecases.user.list_users.list_users_usecase",
+        "peekOfCode": "class LisUsersUseCase():\n   user_repository: UserRepositoryInterface\n   def __init__(self, user_repository: UserRepositoryInterface):\n      self.user_repository = user_repository\n   def execute(self, input: ListUsersInputDto) -> ListUsersOutputDto: \n      users = self.user_repository.list_users()\n      output = []\n      for user in users:\n        user_dto = UserDto(id= user.id, name= user.name)\n        output.append(user_dto)",
+        "detail": "aula.src.usecases.user.list_users.list_users_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserInputDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.update_user.update_user_dto",
+        "description": "aula.src.usecases.user.update_user.update_user_dto",
+        "peekOfCode": "class UpdateUserInputDto(BaseModel):\n    id: UUID\n    name: str\n# OUTPUT\nclass UpdateUseroUTPUTDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "aula.src.usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUseroUTPUTDto",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.update_user.update_user_dto",
+        "description": "aula.src.usecases.user.update_user.update_user_dto",
+        "peekOfCode": "class UpdateUseroUTPUTDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "aula.src.usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserUseCase",
+        "kind": 6,
+        "importPath": "aula.src.usecases.user.update_user.update_user_usecase",
+        "description": "aula.src.usecases.user.update_user.update_user_usecase",
+        "peekOfCode": "class UpdateUserUseCase(UseCaseInterface):\n    def __init__(self,user_repository: UserRepositoryInterface):\n        self.user_repository = user_repository\n    def execute(self, input: UpdateUserInputDto) -> UpdateUseroUTPUTDto:\n        user = User(id = input.id, name= input.name) \n        self.user_repository.update_user(user = user)\n        return UpdateUseroUTPUTDto(id = user.id, name = user.name)",
+        "detail": "aula.src.usecases.user.update_user.update_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "referencia.src.domain.task.task_entity",
+        "description": "referencia.src.domain.task.task_entity",
+        "peekOfCode": "class Task:\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool\n    def __init__(\n        self, id: UUID, user_id: UUID, title: str, description: str, completed: bool\n    ):\n        self.id = id",
+        "detail": "referencia.src.domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepositoryInterface",
+        "kind": 6,
+        "importPath": "referencia.src.domain.task.task_repository_interface",
+        "description": "referencia.src.domain.task.task_repository_interface",
+        "peekOfCode": "class TaskRepositoryInterface(ABC):\n    @abstractmethod\n    def register_task(self, task: Task) -> None:\n        raise NotImplementedError\n    @abstractmethod\n    def find_task(self, task_id: UUID) -> Task:\n        raise NotImplementedError\n    @abstractmethod\n    def list_tasks_from_user(self, user_id: UUID) -> List[Task]:\n        raise NotImplementedError",
+        "detail": "referencia.src.domain.task.task_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "referencia.src.domain.user.user_entity",
+        "description": "referencia.src.domain.user.user_entity",
+        "peekOfCode": "class User:\n    id: UUID\n    name: str\n    tasks: List[Task]\n    def __init__(self, id: UUID, name: str):\n        self.id = id\n        self.name = name\n        self.tasks = []\n        self.validate()\n    def validate(self):",
+        "detail": "referencia.src.domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "kind": 6,
+        "importPath": "referencia.src.domain.user.user_repository_interface",
+        "description": "referencia.src.domain.user.user_repository_interface",
+        "peekOfCode": "class UserRepositoryInterface(ABC):\n    @abstractmethod\n    def add_user(self, user: User) -> None:\n        raise NotImplementedError\n    @abstractmethod\n    def find_user(self, user_id: UUID) -> User:\n        raise NotImplementedError\n    @abstractmethod\n    def update_user(self, user: User) -> None:\n        raise NotImplementedError",
+        "detail": "referencia.src.domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UseCaseInterface",
+        "kind": 6,
+        "importPath": "referencia.src.domain.__seedwork.use_case_interface",
+        "description": "referencia.src.domain.__seedwork.use_case_interface",
+        "peekOfCode": "class UseCaseInterface(ABC):\n    @abstractmethod\n    def execute(input: Any) -> Any:\n        raise NotImplementedError",
+        "detail": "referencia.src.domain.__seedwork.use_case_interface",
+        "documentation": {}
+    },
+    {
+        "label": "TaskPresenter",
+        "kind": 6,
+        "importPath": "referencia.src.infrastructure.api.presenters.task_presenter",
+        "description": "referencia.src.infrastructure.api.presenters.task_presenter",
+        "peekOfCode": "class TaskPresenter:\n    @staticmethod\n    def toJSON(task: FindTaskOutputDto) -> dict:\n        return {\n            \"id\": str(task.id),\n            \"user_id\": str(task.user_id),\n            \"title\": task.title,\n            \"description\": task.description,\n            \"completed\": task.completed,\n        }",
+        "detail": "referencia.src.infrastructure.api.presenters.task_presenter",
+        "documentation": {}
+    },
+    {
+        "label": "register_task",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.routers.task_routers",
+        "description": "referencia.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def register_task(\n    request: RegisterTaskInputDto, session: Session = Depends(get_session)\n):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = RegisterTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=request)\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "referencia.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "find_task",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.routers.task_routers",
+        "description": "referencia.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def find_task(task_id: UUID, session: Session = Depends(get_session)):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = FindTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=FindTaskInputDto(id=task_id))\n        output_xml = TaskPresenter.toXML(output)\n        output_json = TaskPresenter.toJSON(output)\n        return {\"json\": output_json, \"xml\": output_xml}\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "referencia.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "complete_task",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.routers.task_routers",
+        "description": "referencia.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def complete_task(task_id: UUID, session: Session = Depends(get_session)):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = CompleteTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=CompleteTaskInputDto(id=task_id))\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))\n@router.delete(\"/{task_id}\")\ndef delete_task(task_id: UUID, session: Session = Depends(get_session)):",
+        "detail": "referencia.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.routers.task_routers",
+        "description": "referencia.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "def delete_task(task_id: UUID, session: Session = Depends(get_session)):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = DeleteTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=DeleteTaskInputDto(id=task_id))\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "referencia.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "referencia.src.infrastructure.api.routers.task_routers",
+        "description": "referencia.src.infrastructure.api.routers.task_routers",
+        "peekOfCode": "router = APIRouter(prefix=\"/tasks\", tags=[\"Tasks\"])\n@router.post(\"/\")\ndef register_task(\n    request: RegisterTaskInputDto, session: Session = Depends(get_session)\n):\n    try:\n        task_repository = TaskRepository(session=session)\n        usecase = RegisterTaskUseCase(task_repository=task_repository)\n        output = usecase.execute(input=request)\n        return output",
+        "detail": "referencia.src.infrastructure.api.routers.task_routers",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.routers.user_routers",
+        "description": "referencia.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "def add_user(request: AddUserInputDto, session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session=session)\n        usecase = AddUserUseCase(user_repository=user_repository)\n        output = usecase.execute(input=request)\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))\n@router.get(\"/{user_id}\")\ndef find_user(user_id: UUID, session: Session = Depends(get_session)):",
+        "detail": "referencia.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "find_user",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.routers.user_routers",
+        "description": "referencia.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "def find_user(user_id: UUID, session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session=session)\n        task_repository = TaskRepository(session=session)\n        usecase = FindUserUseCase(\n            user_repository=user_repository, task_repository=task_repository\n        )\n        output = usecase.execute(input=FindUserInputDto(id=user_id))\n        return output\n    except Exception as e:",
+        "detail": "referencia.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "list_users",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.routers.user_routers",
+        "description": "referencia.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "def list_users(session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session=session)\n        usecase = ListUsersUseCase(user_repository=user_repository)\n        output = usecase.execute(input=ListUsersInputDto())\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "referencia.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "referencia.src.infrastructure.api.routers.user_routers",
+        "description": "referencia.src.infrastructure.api.routers.user_routers",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\", tags=[\"Users\"])\n@router.post(\"/\")\ndef add_user(request: AddUserInputDto, session: Session = Depends(get_session)):\n    try:\n        user_repository = UserRepository(session=session)\n        usecase = AddUserUseCase(user_repository=user_repository)\n        output = usecase.execute(input=request)\n        return output\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "referencia.src.infrastructure.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "referencia.src.infrastructure.api.config",
+        "description": "referencia.src.infrastructure.api.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    CONNECTION: str = Field(..., env=\"CONNECTION\")\nsettings = Settings()",
+        "detail": "referencia.src.infrastructure.api.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "referencia.src.infrastructure.api.config",
+        "description": "referencia.src.infrastructure.api.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "referencia.src.infrastructure.api.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.database",
+        "description": "referencia.src.infrastructure.api.database",
+        "peekOfCode": "def get_session():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "referencia.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_tables",
+        "kind": 2,
+        "importPath": "referencia.src.infrastructure.api.database",
+        "description": "referencia.src.infrastructure.api.database",
+        "peekOfCode": "def create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "referencia.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "referencia.src.infrastructure.api.database",
+        "description": "referencia.src.infrastructure.api.database",
+        "peekOfCode": "engine = create_engine(settings.CONNECTION)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_session():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef create_tables():",
+        "detail": "referencia.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "referencia.src.infrastructure.api.database",
+        "description": "referencia.src.infrastructure.api.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_session():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "referencia.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "referencia.src.infrastructure.api.database",
+        "description": "referencia.src.infrastructure.api.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_session():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef create_tables():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "referencia.src.infrastructure.api.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "referencia.src.infrastructure.api.main",
+        "description": "referencia.src.infrastructure.api.main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(user_routers.router)\napp.include_router(task_routers.router)\ncreate_tables()",
+        "detail": "referencia.src.infrastructure.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "kind": 6,
+        "importPath": "referencia.src.infrastructure.task.sqlalchemy.task_model",
+        "description": "referencia.src.infrastructure.task.sqlalchemy.task_model",
+        "peekOfCode": "class TaskModel(Base):\n    __tablename__ = \"tb_tasks\"\n    id = Column(UUID, primary_key=True, index=True)\n    user_id = Column(UUID, ForeignKey(\"tb_users.id\", ondelete=\"CASCADE\"))\n    title = Column(String)\n    description = Column(String)\n    completed = Column(Boolean)",
+        "detail": "referencia.src.infrastructure.task.sqlalchemy.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "TaskRepository",
+        "kind": 6,
+        "importPath": "referencia.src.infrastructure.task.sqlalchemy.task_repository",
+        "description": "referencia.src.infrastructure.task.sqlalchemy.task_repository",
+        "peekOfCode": "class TaskRepository(TaskRepositoryInterface):\n    def __init__(self, session: Session):\n        self.session: Session = session\n    def register_task(self, task: Task) -> None:\n        try:\n            task_model = TaskModel(\n                id=task.id,\n                user_id=task.user_id,\n                title=task.title,\n                description=task.description,",
+        "detail": "referencia.src.infrastructure.task.sqlalchemy.task_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "referencia.src.infrastructure.user.sqlalchemy.user_model",
+        "description": "referencia.src.infrastructure.user.sqlalchemy.user_model",
+        "peekOfCode": "class UserModel(Base):\n    __tablename__ = \"tb_users\"\n    id = Column(UUID, primary_key=True, index=True)\n    name = Column(String)",
+        "detail": "referencia.src.infrastructure.user.sqlalchemy.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "kind": 6,
+        "importPath": "referencia.src.infrastructure.user.sqlalchemy.user_repository",
+        "description": "referencia.src.infrastructure.user.sqlalchemy.user_repository",
+        "peekOfCode": "class UserRepository(UserRepositoryInterface):\n    def __init__(self, session: Session):\n        self.session: Session = session\n    def add_user(self, user: User) -> None:\n        user_model = UserModel(id=user.id, name=user.name)\n        self.session.add(user_model)\n        self.session.commit()\n        return None\n    def find_user(self, user_id: UUID) -> User:\n        user_in_db: UserModel = self.session.query(UserModel).get(user_id)",
+        "detail": "referencia.src.infrastructure.user.sqlalchemy.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.complete_task.complete_task_dto",
+        "description": "referencia.src.usecases.task.complete_task.complete_task_dto",
+        "peekOfCode": "class CompleteTaskInputDto(BaseModel):\n    id: UUID\nclass CompleteTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "referencia.src.usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.complete_task.complete_task_dto",
+        "description": "referencia.src.usecases.task.complete_task.complete_task_dto",
+        "peekOfCode": "class CompleteTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "referencia.src.usecases.task.complete_task.complete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CompleteTaskUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.complete_task.complete_task_usecase",
+        "description": "referencia.src.usecases.task.complete_task.complete_task_usecase",
+        "peekOfCode": "class CompleteTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: CompleteTaskInputDto) -> CompleteTaskOutputDto:\n        task = self.task_repository.find_task(task_id=input.id)\n        task.mark_as_completed()\n        self.task_repository.update_task(task=task)\n        return CompleteTaskOutputDto(\n            id=task.id,\n            user_id=task.user_id,",
+        "detail": "referencia.src.usecases.task.complete_task.complete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.delete_task.delete_task_dto",
+        "description": "referencia.src.usecases.task.delete_task.delete_task_dto",
+        "peekOfCode": "class DeleteTaskInputDto(BaseModel):\n    id: UUID\nclass DeleteTaskOutputDto(BaseModel):\n    message: str",
+        "detail": "referencia.src.usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.delete_task.delete_task_dto",
+        "description": "referencia.src.usecases.task.delete_task.delete_task_dto",
+        "peekOfCode": "class DeleteTaskOutputDto(BaseModel):\n    message: str",
+        "detail": "referencia.src.usecases.task.delete_task.delete_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTaskUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.delete_task.delete_task_usecase",
+        "description": "referencia.src.usecases.task.delete_task.delete_task_usecase",
+        "peekOfCode": "class DeleteTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: DeleteTaskInputDto) -> DeleteTaskOutputDto:\n        self.task_repository.delete_task(task_id=input.id)\n        return DeleteTaskOutputDto(\n            message=f\"task with id {input.id} deleted successfully.\"\n        )",
+        "detail": "referencia.src.usecases.task.delete_task.delete_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.find_task.find_task_dto",
+        "description": "referencia.src.usecases.task.find_task.find_task_dto",
+        "peekOfCode": "class FindTaskInputDto(BaseModel):\n    id: UUID\nclass FindTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "referencia.src.usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.find_task.find_task_dto",
+        "description": "referencia.src.usecases.task.find_task.find_task_dto",
+        "peekOfCode": "class FindTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "referencia.src.usecases.task.find_task.find_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindTaskUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.find_task.find_task_usecase",
+        "description": "referencia.src.usecases.task.find_task.find_task_usecase",
+        "peekOfCode": "class FindTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: FindTaskInputDto) -> FindTaskOutputDto:\n        task = self.task_repository.find_task(task_id=input.id)\n        return FindTaskOutputDto(\n            id=task.id,\n            user_id=task.user_id,\n            title=task.title,\n            description=task.description,",
+        "detail": "referencia.src.usecases.task.find_task.find_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.register_task.register_task_dto",
+        "description": "referencia.src.usecases.task.register_task.register_task_dto",
+        "peekOfCode": "class RegisterTaskInputDto(BaseModel):\n    user_id: UUID\n    title: str\n    description: str\nclass RegisterTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "referencia.src.usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.register_task.register_task_dto",
+        "description": "referencia.src.usecases.task.register_task.register_task_dto",
+        "peekOfCode": "class RegisterTaskOutputDto(BaseModel):\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool",
+        "detail": "referencia.src.usecases.task.register_task.register_task_dto",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterTaskUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.task.register_task.register_task_usecase",
+        "description": "referencia.src.usecases.task.register_task.register_task_usecase",
+        "peekOfCode": "class RegisterTaskUseCase(UseCaseInterface):\n    def __init__(self, task_repository: TaskRepositoryInterface):\n        self.task_repository = task_repository\n    def execute(self, input: RegisterTaskInputDto) -> RegisterTaskOutputDto:\n        task = Task(\n            id=uuid4(),\n            user_id=input.user_id,\n            title=input.title,\n            description=input.description,\n            completed=False,",
+        "detail": "referencia.src.usecases.task.register_task.register_task_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.add_user.add_user_dto",
+        "description": "referencia.src.usecases.user.add_user.add_user_dto",
+        "peekOfCode": "class AddUserInputDto(BaseModel):\n    name: str\nclass AddUserOutputDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "referencia.src.usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.add_user.add_user_dto",
+        "description": "referencia.src.usecases.user.add_user.add_user_dto",
+        "peekOfCode": "class AddUserOutputDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "referencia.src.usecases.user.add_user.add_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "AddUserUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.add_user.add_user_usecase",
+        "description": "referencia.src.usecases.user.add_user.add_user_usecase",
+        "peekOfCode": "class AddUserUseCase(UseCaseInterface):\n    def __init__(self, user_repository: UserRepositoryInterface):\n        self.user_repository = user_repository\n    def execute(self, input: AddUserInputDto) -> AddUserOutputDto:\n        user = User(id=uuid.uuid4(), name=input.name)\n        self.user_repository.add_user(user=user)\n        return AddUserOutputDto(id=user.id, name=user.name)",
+        "detail": "referencia.src.usecases.user.add_user.add_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.find_user.find_user_dto",
+        "description": "referencia.src.usecases.user.find_user.find_user_dto",
+        "peekOfCode": "class FindUserInputDto(BaseModel):\n    id: UUID\nclass TaskOutputDto(BaseModel):\n    id: UUID\n    title: str\n    description: str\n    completed: bool\nclass FindUserOutputDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "referencia.src.usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "TaskOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.find_user.find_user_dto",
+        "description": "referencia.src.usecases.user.find_user.find_user_dto",
+        "peekOfCode": "class TaskOutputDto(BaseModel):\n    id: UUID\n    title: str\n    description: str\n    completed: bool\nclass FindUserOutputDto(BaseModel):\n    id: UUID\n    name: str\n    tasks: List[TaskOutputDto]\n    pending_tasks: int",
+        "detail": "referencia.src.usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.find_user.find_user_dto",
+        "description": "referencia.src.usecases.user.find_user.find_user_dto",
+        "peekOfCode": "class FindUserOutputDto(BaseModel):\n    id: UUID\n    name: str\n    tasks: List[TaskOutputDto]\n    pending_tasks: int",
+        "detail": "referencia.src.usecases.user.find_user.find_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.find_user.find_user_usecase",
+        "description": "referencia.src.usecases.user.find_user.find_user_usecase",
+        "peekOfCode": "class FindUserUseCase(UseCaseInterface):\n    user_repository: UserRepositoryInterface\n    task_repository: TaskRepositoryInterface\n    def __init__(\n        self,\n        user_repository: UserRepositoryInterface,\n        task_repository: TaskRepositoryInterface,\n    ):\n        self.user_repository = user_repository\n        self.task_repository = task_repository",
+        "detail": "referencia.src.usecases.user.find_user.find_user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.list_users.list_users_dto",
+        "description": "referencia.src.usecases.user.list_users.list_users_dto",
+        "peekOfCode": "class ListUsersInputDto(BaseModel):\n    pass\nclass UserDto(BaseModel):\n    id: UUID\n    name: str\nclass ListUsersOutputDto(BaseModel):\n    users: List[UserDto]",
+        "detail": "referencia.src.usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UserDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.list_users.list_users_dto",
+        "description": "referencia.src.usecases.user.list_users.list_users_dto",
+        "peekOfCode": "class UserDto(BaseModel):\n    id: UUID\n    name: str\nclass ListUsersOutputDto(BaseModel):\n    users: List[UserDto]",
+        "detail": "referencia.src.usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.list_users.list_users_dto",
+        "description": "referencia.src.usecases.user.list_users.list_users_dto",
+        "peekOfCode": "class ListUsersOutputDto(BaseModel):\n    users: List[UserDto]",
+        "detail": "referencia.src.usecases.user.list_users.list_users_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsersUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.list_users.list_users_usecase",
+        "description": "referencia.src.usecases.user.list_users.list_users_usecase",
+        "peekOfCode": "class ListUsersUseCase(UseCaseInterface):\n    def __init__(self, user_repository: UserRepositoryInterface):\n        self.user_repository = user_repository\n    def execute(self, input: ListUsersInputDto) -> ListUsersOutputDto:\n        users = self.user_repository.list_users()\n        output = []\n        for user in users:\n            output.append(UserDto(id=user.id, name=user.name))\n        return ListUsersOutputDto(users=output)",
+        "detail": "referencia.src.usecases.user.list_users.list_users_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserInputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.update_user.update_user_dto",
+        "description": "referencia.src.usecases.user.update_user.update_user_dto",
+        "peekOfCode": "class UpdateUserInputDto(BaseModel):\n    id: UUID\n    name: str\nclass UpdateUserOutputDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "referencia.src.usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserOutputDto",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.update_user.update_user_dto",
+        "description": "referencia.src.usecases.user.update_user.update_user_dto",
+        "peekOfCode": "class UpdateUserOutputDto(BaseModel):\n    id: UUID\n    name: str",
+        "detail": "referencia.src.usecases.user.update_user.update_user_dto",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserUseCase",
+        "kind": 6,
+        "importPath": "referencia.src.usecases.user.update_user.update_user_usecase",
+        "description": "referencia.src.usecases.user.update_user.update_user_usecase",
+        "peekOfCode": "class UpdateUserUseCase(UseCaseInterface):\n    def __init__(self, user_repository: UserRepositoryInterface):\n        self.user_repository = user_repository\n    def execute(self, input: UpdateUserInputDto) -> UpdateUserOutputDto:\n        user = User(id=uuid.uuid4(), name=input.name)\n        self.user_repository.update_user(user=user)\n        return UpdateUserOutputDto(id=user.id, name=user.name)",
+        "detail": "referencia.src.usecases.user.update_user.update_user_usecase",
+        "documentation": {}
+    }
+]
