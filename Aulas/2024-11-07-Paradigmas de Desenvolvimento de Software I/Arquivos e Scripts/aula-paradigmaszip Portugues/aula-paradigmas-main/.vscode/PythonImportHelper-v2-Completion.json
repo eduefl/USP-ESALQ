@@ -1,0 +1,932 @@
+[
+    {
+        "label": "reduce",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "reduce",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "classificar_aluno",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "dobro",
+        "kind": 5,
+        "importPath": "aula.funcional.lambda",
+        "description": "aula.funcional.lambda",
+        "peekOfCode": "dobro = lambda  x: x*2\n#  dividda em duas partes a parte antes do dois pontos e a parte depois do dois pontos \n    # a parte antes do dois pontos sao os atributos de entrada\n    # a parte depois e como vai ser a saida da miha funcao\n# print(dobro(4))\nvalores = [1,2,3,4]\n# o que a funcao mao faz ? \n    # Ela recebe uma funcao como primeiro agrumento e uma lista de valores como segundo argumento \n    # e executa essa funcao para cada argumento\nvalores_dobrados = list(map(lambda  x: x*2,valores))",
+        "detail": "aula.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "valores",
+        "kind": 5,
+        "importPath": "aula.funcional.lambda",
+        "description": "aula.funcional.lambda",
+        "peekOfCode": "valores = [1,2,3,4]\n# o que a funcao mao faz ? \n    # Ela recebe uma funcao como primeiro agrumento e uma lista de valores como segundo argumento \n    # e executa essa funcao para cada argumento\nvalores_dobrados = list(map(lambda  x: x*2,valores))\n# print(valores_dobrados)\n# Calcular numeros impares\nnumeros = [1,2,3,4,5,6,7,8,9,10]\n# maneira immperativa \n# resultado=[]",
+        "detail": "aula.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "valores_dobrados",
+        "kind": 5,
+        "importPath": "aula.funcional.lambda",
+        "description": "aula.funcional.lambda",
+        "peekOfCode": "valores_dobrados = list(map(lambda  x: x*2,valores))\n# print(valores_dobrados)\n# Calcular numeros impares\nnumeros = [1,2,3,4,5,6,7,8,9,10]\n# maneira immperativa \n# resultado=[]\n# for numero in numeros:\n#     if numero % 2 !=0:\n#         resultado.append(numero)\n# print(resultado)",
+        "detail": "aula.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "aula.funcional.lambda",
+        "description": "aula.funcional.lambda",
+        "peekOfCode": "numeros = [1,2,3,4,5,6,7,8,9,10]\n# maneira immperativa \n# resultado=[]\n# for numero in numeros:\n#     if numero % 2 !=0:\n#         resultado.append(numero)\n# print(resultado)\n# Como que a funcao filter funciona? \n    # ela fucnina parecido com o map mas ain inves de interar com cada um dos elementos \n    # ela aplica uma condicao em cada um dos elementos retornando apenas os que satisfazem a condicao",
+        "detail": "aula.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "aula.funcional.map-filter-reduce",
+        "description": "aula.funcional.map-filter-reduce",
+        "peekOfCode": "numeros = [1,2,3,4,5,6,7,8,9,10]\n# map, filter, reduce \n# o que o reduce faz? \n    # ele vai somar a partir de uma funcao lambda valores e agregar no output  ate entregar os dados somados\n# filtrar os numeros pares\nnumeros_pares = list(filter(lambda x:  x%2 ==0,  numeros))\nnumeros_pares_dobrados = list(map(lambda x:  x*2,numeros_pares ))\nsoma_numeros_pares_dobrados =reduce(lambda x,y: x+y, numeros_pares_dobrados)\nprint(numeros_pares)\nprint(numeros_pares_dobrados)",
+        "detail": "aula.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_pares",
+        "kind": 5,
+        "importPath": "aula.funcional.map-filter-reduce",
+        "description": "aula.funcional.map-filter-reduce",
+        "peekOfCode": "numeros_pares = list(filter(lambda x:  x%2 ==0,  numeros))\nnumeros_pares_dobrados = list(map(lambda x:  x*2,numeros_pares ))\nsoma_numeros_pares_dobrados =reduce(lambda x,y: x+y, numeros_pares_dobrados)\nprint(numeros_pares)\nprint(numeros_pares_dobrados)\nprint(soma_numeros_pares_dobrados)",
+        "detail": "aula.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_pares_dobrados",
+        "kind": 5,
+        "importPath": "aula.funcional.map-filter-reduce",
+        "description": "aula.funcional.map-filter-reduce",
+        "peekOfCode": "numeros_pares_dobrados = list(map(lambda x:  x*2,numeros_pares ))\nsoma_numeros_pares_dobrados =reduce(lambda x,y: x+y, numeros_pares_dobrados)\nprint(numeros_pares)\nprint(numeros_pares_dobrados)\nprint(soma_numeros_pares_dobrados)",
+        "detail": "aula.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "soma",
+        "kind": 2,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "def soma(a,b):\n    return a+b\n# print(soma(3,4))\n# print(soma(3,4))\n# a funcao de alta ordem recebe como input uma outra funcao \ndef aplicar_duas_vezes(func,valor):\n    # output = func(valor)\n    # output = func(output)    \n    return func(func(valor))\ndef soma1(x):",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "aplicar_duas_vezes",
+        "kind": 2,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "def aplicar_duas_vezes(func,valor):\n    # output = func(valor)\n    # output = func(output)    \n    return func(func(valor))\ndef soma1(x):\n    return x+1\ndef dividir_por_dois(x):\n    return x/2\ndef elevar_ao_quadrado(x):\n    return x**2",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "soma1",
+        "kind": 2,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "def soma1(x):\n    return x+1\ndef dividir_por_dois(x):\n    return x/2\ndef elevar_ao_quadrado(x):\n    return x**2\n# print(soma1(6))\n# print(aplicar_duas_vezes(soma1,8))\n# print(aplicar_duas_vezes(elevar_ao_quadrado,6))\nnumeros = [1,2,3,4,5,6]",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "dividir_por_dois",
+        "kind": 2,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "def dividir_por_dois(x):\n    return x/2\ndef elevar_ao_quadrado(x):\n    return x**2\n# print(soma1(6))\n# print(aplicar_duas_vezes(soma1,8))\n# print(aplicar_duas_vezes(elevar_ao_quadrado,6))\nnumeros = [1,2,3,4,5,6]\ndef aplicar_transformacao(funcao,lista):\n    return [funcao(x) for x  in lista] #List comprehension",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "elevar_ao_quadrado",
+        "kind": 2,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "def elevar_ao_quadrado(x):\n    return x**2\n# print(soma1(6))\n# print(aplicar_duas_vezes(soma1,8))\n# print(aplicar_duas_vezes(elevar_ao_quadrado,6))\nnumeros = [1,2,3,4,5,6]\ndef aplicar_transformacao(funcao,lista):\n    return [funcao(x) for x  in lista] #List comprehension\n    # e o equivalente funcional a \n    # lista_trasformada = []",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "aplicar_transformacao",
+        "kind": 2,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "def aplicar_transformacao(funcao,lista):\n    return [funcao(x) for x  in lista] #List comprehension\n    # e o equivalente funcional a \n    # lista_trasformada = []\n    # for item in lista:\n    #     lista_trasformada.append(funcao(x))\n    # return lista_trasformada\nnumeros_quadrado = aplicar_transformacao(elevar_ao_quadrado, numeros)\nnumeros_quadrado_divido_por_dois = aplicar_transformacao(dividir_por_dois,numeros_quadrado)\nnumeros_quadrado_divido_por_doisx = aplicar_transformacao(dividir_por_dois,aplicar_transformacao(elevar_ao_quadrado, numeros)) #a mesma coisa mas aninhado ",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "numeros = [1,2,3,4,5,6]\ndef aplicar_transformacao(funcao,lista):\n    return [funcao(x) for x  in lista] #List comprehension\n    # e o equivalente funcional a \n    # lista_trasformada = []\n    # for item in lista:\n    #     lista_trasformada.append(funcao(x))\n    # return lista_trasformada\nnumeros_quadrado = aplicar_transformacao(elevar_ao_quadrado, numeros)\nnumeros_quadrado_divido_por_dois = aplicar_transformacao(dividir_por_dois,numeros_quadrado)",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_quadrado",
+        "kind": 5,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "numeros_quadrado = aplicar_transformacao(elevar_ao_quadrado, numeros)\nnumeros_quadrado_divido_por_dois = aplicar_transformacao(dividir_por_dois,numeros_quadrado)\nnumeros_quadrado_divido_por_doisx = aplicar_transformacao(dividir_por_dois,aplicar_transformacao(elevar_ao_quadrado, numeros)) #a mesma coisa mas aninhado \nprint(numeros_quadrado)\nprint(numeros_quadrado_divido_por_dois)\nprint(numeros_quadrado_divido_por_doisx)",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_quadrado_divido_por_dois",
+        "kind": 5,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "numeros_quadrado_divido_por_dois = aplicar_transformacao(dividir_por_dois,numeros_quadrado)\nnumeros_quadrado_divido_por_doisx = aplicar_transformacao(dividir_por_dois,aplicar_transformacao(elevar_ao_quadrado, numeros)) #a mesma coisa mas aninhado \nprint(numeros_quadrado)\nprint(numeros_quadrado_divido_por_dois)\nprint(numeros_quadrado_divido_por_doisx)",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_quadrado_divido_por_doisx",
+        "kind": 5,
+        "importPath": "aula.funcional.puras-alta-ordem",
+        "description": "aula.funcional.puras-alta-ordem",
+        "peekOfCode": "numeros_quadrado_divido_por_doisx = aplicar_transformacao(dividir_por_dois,aplicar_transformacao(elevar_ao_quadrado, numeros)) #a mesma coisa mas aninhado \nprint(numeros_quadrado)\nprint(numeros_quadrado_divido_por_dois)\nprint(numeros_quadrado_divido_por_doisx)",
+        "detail": "aula.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "aula.imperativo.estrutura-repeticao",
+        "description": "aula.imperativo.estrutura-repeticao",
+        "peekOfCode": "numeros = [1,2,33,5,8,9]\ntodos_positivos = True\nfor numero in numeros:\n    # print(numero)\n    if numero<0:\n        todos_positivos = False\n        break\nif todos_positivos:\n    print(\"todos os numeros sao positivos\")\nelse:",
+        "detail": "aula.imperativo.estrutura-repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "todos_positivos",
+        "kind": 5,
+        "importPath": "aula.imperativo.estrutura-repeticao",
+        "description": "aula.imperativo.estrutura-repeticao",
+        "peekOfCode": "todos_positivos = True\nfor numero in numeros:\n    # print(numero)\n    if numero<0:\n        todos_positivos = False\n        break\nif todos_positivos:\n    print(\"todos os numeros sao positivos\")\nelse:\n    print(\"existe um numero negativo \")",
+        "detail": "aula.imperativo.estrutura-repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "notas_aluno",
+        "kind": 5,
+        "importPath": "aula.imperativo.estruturado",
+        "description": "aula.imperativo.estruturado",
+        "peekOfCode": "notas_aluno = [7,4,5,8,9,4]\n# funcao para calcular media \nresultado = classificar_aluno(notas_aluno)\nprint('Resultado ', resultado)",
+        "detail": "aula.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "resultado",
+        "kind": 5,
+        "importPath": "aula.imperativo.estruturado",
+        "description": "aula.imperativo.estruturado",
+        "peekOfCode": "resultado = classificar_aluno(notas_aluno)\nprint('Resultado ', resultado)",
+        "detail": "aula.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_media",
+        "kind": 2,
+        "importPath": "aula.imperativo.utils",
+        "description": "aula.imperativo.utils",
+        "peekOfCode": "def calcular_media(notas):\n    soma = 0\n    quantidade = 0\n    for nota in notas:\n        soma += nota\n        quantidade +=1\n    media = soma/quantidade\n    return media\ndef classificar_aluno(notas):\n    media  = calcular_media(notas) ",
+        "detail": "aula.imperativo.utils",
+        "documentation": {}
+    },
+    {
+        "label": "classificar_aluno",
+        "kind": 2,
+        "importPath": "aula.imperativo.utils",
+        "description": "aula.imperativo.utils",
+        "peekOfCode": "def classificar_aluno(notas):\n    media  = calcular_media(notas) \n    if media >=7:\n        return \"aprovado\"\n    elif media >=5:\n        return \"Recuperacao\"\n    else:\n        return \"Reprovado\"",
+        "detail": "aula.imperativo.utils",
+        "documentation": {}
+    },
+    {
+        "label": "tupla",
+        "kind": 5,
+        "importPath": "referencial.funcional.imutabilidade",
+        "description": "referencial.funcional.imutabilidade",
+        "peekOfCode": "tupla = (1, 2, 3)\n# Tentativa de modificar um elemento da tupla (descomentá-la geraria um erro)\n# tupla[0] = 4  # Isso geraria um erro do tipo TypeError, pois tuplas são imutáveis.\n# Em vez de tentar modificar a tupla original, podemos criar uma nova tupla.\n# Aqui, adicionamos um novo elemento à tupla existente.\nnova_tupla = tupla + (4,)  # O operador + concatena a tupla original com uma nova tupla\n# Exibindo a nova tupla\nprint(f\"Tupla original: {tupla}\")  # Saída: Tupla original: (1, 2, 3)\nprint(f\"Nova tupla: {nova_tupla}\")  # Saída: Nova tupla: (1, 2, 3, 4)\n# Resumo: A imutabilidade é uma característica importante das tuplas,",
+        "detail": "referencial.funcional.imutabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "nova_tupla",
+        "kind": 5,
+        "importPath": "referencial.funcional.imutabilidade",
+        "description": "referencial.funcional.imutabilidade",
+        "peekOfCode": "nova_tupla = tupla + (4,)  # O operador + concatena a tupla original com uma nova tupla\n# Exibindo a nova tupla\nprint(f\"Tupla original: {tupla}\")  # Saída: Tupla original: (1, 2, 3)\nprint(f\"Nova tupla: {nova_tupla}\")  # Saída: Nova tupla: (1, 2, 3, 4)\n# Resumo: A imutabilidade é uma característica importante das tuplas,\n# que garante que seus dados não serão alterados acidentalmente.\n# Se precisar adicionar ou modificar elementos, crie uma nova tupla a partir da original.",
+        "detail": "referencial.funcional.imutabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "dobro",
+        "kind": 5,
+        "importPath": "referencial.funcional.lambda",
+        "description": "referencial.funcional.lambda",
+        "peekOfCode": "dobro = lambda x: x * 2\n# Testando a função lambda com o valor 4\nprint(dobro(4))  # Saída: 8\n# Explicação: A função 'dobro' recebe 4 e retorna 8.\n# Usando lambda em uma função de alta ordem\nvalores = [1, 2, 3, 4]\n# Usa map para aplicar uma função lambda que dobra cada valor da lista\nvalores_dobrados = list(map(lambda x: x * 2, valores))\n# Imprimindo a nova lista com os valores dobrados\nprint(valores_dobrados)  # Saída: [2, 4, 6, 8]",
+        "detail": "referencial.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "valores",
+        "kind": 5,
+        "importPath": "referencial.funcional.lambda",
+        "description": "referencial.funcional.lambda",
+        "peekOfCode": "valores = [1, 2, 3, 4]\n# Usa map para aplicar uma função lambda que dobra cada valor da lista\nvalores_dobrados = list(map(lambda x: x * 2, valores))\n# Imprimindo a nova lista com os valores dobrados\nprint(valores_dobrados)  # Saída: [2, 4, 6, 8]\n# Explicação: A função lambda é aplicada a cada elemento da lista 'valores', resultando em uma nova lista.\n# === Exemplo Adicional: Filtrando Números Ímpares ===\n# Lista de números\nnumeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n# Usando lambda para filtrar números ímpares",
+        "detail": "referencial.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "valores_dobrados",
+        "kind": 5,
+        "importPath": "referencial.funcional.lambda",
+        "description": "referencial.funcional.lambda",
+        "peekOfCode": "valores_dobrados = list(map(lambda x: x * 2, valores))\n# Imprimindo a nova lista com os valores dobrados\nprint(valores_dobrados)  # Saída: [2, 4, 6, 8]\n# Explicação: A função lambda é aplicada a cada elemento da lista 'valores', resultando em uma nova lista.\n# === Exemplo Adicional: Filtrando Números Ímpares ===\n# Lista de números\nnumeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n# Usando lambda para filtrar números ímpares\nnumeros_impares = list(filter(lambda x: x % 2 != 0, numeros))\n# Imprimindo a lista de números ímpares",
+        "detail": "referencial.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "referencial.funcional.lambda",
+        "description": "referencial.funcional.lambda",
+        "peekOfCode": "numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n# Usando lambda para filtrar números ímpares\nnumeros_impares = list(filter(lambda x: x % 2 != 0, numeros))\n# Imprimindo a lista de números ímpares\nprint(numeros_impares)  # Saída: [1, 3, 5, 7, 9]\n# Explicação: A função lambda verifica se cada número é ímpar, retornando apenas os ímpares da lista original.",
+        "detail": "referencial.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_impares",
+        "kind": 5,
+        "importPath": "referencial.funcional.lambda",
+        "description": "referencial.funcional.lambda",
+        "peekOfCode": "numeros_impares = list(filter(lambda x: x % 2 != 0, numeros))\n# Imprimindo a lista de números ímpares\nprint(numeros_impares)  # Saída: [1, 3, 5, 7, 9]\n# Explicação: A função lambda verifica se cada número é ímpar, retornando apenas os ímpares da lista original.",
+        "detail": "referencial.funcional.lambda",
+        "documentation": {}
+    },
+    {
+        "label": "valores",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "valores = [1, 2, 3, 4]\n# Usa map para aplicar uma função lambda que dobra cada valor da lista\nvalores_dobrados = list(map(lambda x: x * 2, valores))\n# Imprime a nova lista com os valores dobrados\nprint(valores_dobrados)  # Saída: [2, 4, 6, 8]\n# Exemplo de filter: selecionar valores pares\n# Usa filter para aplicar uma função lambda que verifica se cada valor é par\nvalores_pares = list(filter(lambda x: x % 2 == 0, valores))\n# Imprime a lista filtrada com os valores pares\nprint(valores_pares)  # Saída: [2, 4]",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "valores_dobrados",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "valores_dobrados = list(map(lambda x: x * 2, valores))\n# Imprime a nova lista com os valores dobrados\nprint(valores_dobrados)  # Saída: [2, 4, 6, 8]\n# Exemplo de filter: selecionar valores pares\n# Usa filter para aplicar uma função lambda que verifica se cada valor é par\nvalores_pares = list(filter(lambda x: x % 2 == 0, valores))\n# Imprime a lista filtrada com os valores pares\nprint(valores_pares)  # Saída: [2, 4]\n# Exemplo de reduce: somar todos os valores\n# Usa reduce para aplicar uma função lambda que soma dois valores",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "valores_pares",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "valores_pares = list(filter(lambda x: x % 2 == 0, valores))\n# Imprime a lista filtrada com os valores pares\nprint(valores_pares)  # Saída: [2, 4]\n# Exemplo de reduce: somar todos os valores\n# Usa reduce para aplicar uma função lambda que soma dois valores\nsoma_total = reduce(lambda x, y: x + y, valores)\n# Imprime a soma total dos valores\nprint(soma_total)  # Saída: 10\n# === Usando Map, Filter e Reduce Juntos ===\n# Lista de números",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "soma_total",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "soma_total = reduce(lambda x, y: x + y, valores)\n# Imprime a soma total dos valores\nprint(soma_total)  # Saída: 10\n# === Usando Map, Filter e Reduce Juntos ===\n# Lista de números\nnumeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n# Exemplo de uso conjunto:\n# 1. Filtrar os números pares\nnumeros_pares = list(filter(lambda x: x % 2 == 0, numeros))\n# 2. Dobrar os números filtrados",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n# Exemplo de uso conjunto:\n# 1. Filtrar os números pares\nnumeros_pares = list(filter(lambda x: x % 2 == 0, numeros))\n# 2. Dobrar os números filtrados\nnumeros_dobrados = list(map(lambda x: x * 2, numeros_pares))\n# 3. Somar os números dobrados\nsoma_dobrados = reduce(lambda x, y: x + y, numeros_dobrados)\n# Imprimindo os resultados do exemplo adicional\nprint(numeros_pares)        # Saída: [2, 4, 6, 8, 10]",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_pares",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "numeros_pares = list(filter(lambda x: x % 2 == 0, numeros))\n# 2. Dobrar os números filtrados\nnumeros_dobrados = list(map(lambda x: x * 2, numeros_pares))\n# 3. Somar os números dobrados\nsoma_dobrados = reduce(lambda x, y: x + y, numeros_dobrados)\n# Imprimindo os resultados do exemplo adicional\nprint(numeros_pares)        # Saída: [2, 4, 6, 8, 10]\nprint(numeros_dobrados)     # Saída: [4, 8, 12, 16, 20]\nprint(soma_dobrados)        # Saída: 60\n# Explicação: Filtramos os números pares, dobramos cada um deles e, em seguida, somamos os resultados.",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_dobrados",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "numeros_dobrados = list(map(lambda x: x * 2, numeros_pares))\n# 3. Somar os números dobrados\nsoma_dobrados = reduce(lambda x, y: x + y, numeros_dobrados)\n# Imprimindo os resultados do exemplo adicional\nprint(numeros_pares)        # Saída: [2, 4, 6, 8, 10]\nprint(numeros_dobrados)     # Saída: [4, 8, 12, 16, 20]\nprint(soma_dobrados)        # Saída: 60\n# Explicação: Filtramos os números pares, dobramos cada um deles e, em seguida, somamos os resultados.",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "soma_dobrados",
+        "kind": 5,
+        "importPath": "referencial.funcional.map-filter-reduce",
+        "description": "referencial.funcional.map-filter-reduce",
+        "peekOfCode": "soma_dobrados = reduce(lambda x, y: x + y, numeros_dobrados)\n# Imprimindo os resultados do exemplo adicional\nprint(numeros_pares)        # Saída: [2, 4, 6, 8, 10]\nprint(numeros_dobrados)     # Saída: [4, 8, 12, 16, 20]\nprint(soma_dobrados)        # Saída: 60\n# Explicação: Filtramos os números pares, dobramos cada um deles e, em seguida, somamos os resultados.",
+        "detail": "referencial.funcional.map-filter-reduce",
+        "documentation": {}
+    },
+    {
+        "label": "soma",
+        "kind": 2,
+        "importPath": "referencial.funcional.puras-alta-ordem",
+        "description": "referencial.funcional.puras-alta-ordem",
+        "peekOfCode": "def soma(a, b):\n    return a + b  # Sempre retorna o mesmo resultado para as mesmas entradas\n# Testando a função pura\nprint(soma(3, 4))  # Saída: 7\nprint(soma(3, 4))  # Saída: 7\n# Observação: A função 'soma' é pura porque não tem efeitos colaterais e sempre produz o mesmo resultado.\n# === Funções de alta ordem ===\n# Exemplo de uma função de alta ordem que aplica uma função duas vezes a um valor\ndef aplicar_duas_vezes(func, valor):\n    return func(func(valor))  # Chama a função 'func' duas vezes, passando o resultado da primeira chamada como entrada para a segunda",
+        "detail": "referencial.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "aplicar_duas_vezes",
+        "kind": 2,
+        "importPath": "referencial.funcional.puras-alta-ordem",
+        "description": "referencial.funcional.puras-alta-ordem",
+        "peekOfCode": "def aplicar_duas_vezes(func, valor):\n    return func(func(valor))  # Chama a função 'func' duas vezes, passando o resultado da primeira chamada como entrada para a segunda\n# Função que incrementa um número\ndef incrementar(x):\n    return x + 1  # Retorna o número incrementado em 1\n# Aplica a função 'incrementar' duas vezes ao valor 5\nprint(aplicar_duas_vezes(incrementar, 5))  # Saída: 7\n# Explicação: O valor 5 é incrementado para 6 na primeira aplicação e para 7 na segunda.\n# Função que aplica uma transformação a cada elemento de uma lista\ndef aplicar_transformacao(funcao, lista):",
+        "detail": "referencial.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "incrementar",
+        "kind": 2,
+        "importPath": "referencial.funcional.puras-alta-ordem",
+        "description": "referencial.funcional.puras-alta-ordem",
+        "peekOfCode": "def incrementar(x):\n    return x + 1  # Retorna o número incrementado em 1\n# Aplica a função 'incrementar' duas vezes ao valor 5\nprint(aplicar_duas_vezes(incrementar, 5))  # Saída: 7\n# Explicação: O valor 5 é incrementado para 6 na primeira aplicação e para 7 na segunda.\n# Função que aplica uma transformação a cada elemento de uma lista\ndef aplicar_transformacao(funcao, lista):\n    # Utiliza compreensão de listas para aplicar 'funcao' a cada elemento de 'lista'\n    return [funcao(x) for x in lista]  # Retorna uma nova lista com a transformação aplicada\n# Função de transformação: eleva um número ao quadrado",
+        "detail": "referencial.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "aplicar_transformacao",
+        "kind": 2,
+        "importPath": "referencial.funcional.puras-alta-ordem",
+        "description": "referencial.funcional.puras-alta-ordem",
+        "peekOfCode": "def aplicar_transformacao(funcao, lista):\n    # Utiliza compreensão de listas para aplicar 'funcao' a cada elemento de 'lista'\n    return [funcao(x) for x in lista]  # Retorna uma nova lista com a transformação aplicada\n# Função de transformação: eleva um número ao quadrado\ndef elevar_ao_quadrado(x):\n    return x ** 2  # Retorna o quadrado do número\n# Lista de números para transformação\nnumeros = [1, 2, 3, 4, 5]\n# Aplicando a transformação que eleva cada número ao quadrado\nnumeros_quadrados = aplicar_transformacao(elevar_ao_quadrado, numeros)",
+        "detail": "referencial.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "elevar_ao_quadrado",
+        "kind": 2,
+        "importPath": "referencial.funcional.puras-alta-ordem",
+        "description": "referencial.funcional.puras-alta-ordem",
+        "peekOfCode": "def elevar_ao_quadrado(x):\n    return x ** 2  # Retorna o quadrado do número\n# Lista de números para transformação\nnumeros = [1, 2, 3, 4, 5]\n# Aplicando a transformação que eleva cada número ao quadrado\nnumeros_quadrados = aplicar_transformacao(elevar_ao_quadrado, numeros)\nprint(numeros_quadrados)  # Saída: [1, 4, 9, 16, 25]\n# Comentário: A função 'aplicar_transformacao' utiliza 'elevar_ao_quadrado' para transformar cada elemento da lista 'numeros'.",
+        "detail": "referencial.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "referencial.funcional.puras-alta-ordem",
+        "description": "referencial.funcional.puras-alta-ordem",
+        "peekOfCode": "numeros = [1, 2, 3, 4, 5]\n# Aplicando a transformação que eleva cada número ao quadrado\nnumeros_quadrados = aplicar_transformacao(elevar_ao_quadrado, numeros)\nprint(numeros_quadrados)  # Saída: [1, 4, 9, 16, 25]\n# Comentário: A função 'aplicar_transformacao' utiliza 'elevar_ao_quadrado' para transformar cada elemento da lista 'numeros'.",
+        "detail": "referencial.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "numeros_quadrados",
+        "kind": 5,
+        "importPath": "referencial.funcional.puras-alta-ordem",
+        "description": "referencial.funcional.puras-alta-ordem",
+        "peekOfCode": "numeros_quadrados = aplicar_transformacao(elevar_ao_quadrado, numeros)\nprint(numeros_quadrados)  # Saída: [1, 4, 9, 16, 25]\n# Comentário: A função 'aplicar_transformacao' utiliza 'elevar_ao_quadrado' para transformar cada elemento da lista 'numeros'.",
+        "detail": "referencial.funcional.puras-alta-ordem",
+        "documentation": {}
+    },
+    {
+        "label": "fatorial",
+        "kind": 2,
+        "importPath": "referencial.funcional.recursao",
+        "description": "referencial.funcional.recursao",
+        "peekOfCode": "def fatorial(n):\n    # Caso base: o fatorial de 0 é 1\n    if n == 0:\n        return 1\n    else:\n        # Chamada recursiva: n multiplicado pelo fatorial de (n - 1)\n        return n * fatorial(n - 1)\n# Testando a função fatorial\nprint(fatorial(5))  # Saída: 120\n# Explicação: 5! = 5 * 4 * 3 * 2 * 1 = 120",
+        "detail": "referencial.funcional.recursao",
+        "documentation": {}
+    },
+    {
+        "label": "fibonacci",
+        "kind": 2,
+        "importPath": "referencial.funcional.recursao",
+        "description": "referencial.funcional.recursao",
+        "peekOfCode": "def fibonacci(n):\n    # Caso base: os dois primeiros números de Fibonacci são 0 e 1\n    if n == 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        # Chamada recursiva: soma dos dois números anteriores\n        return fibonacci(n - 1) + fibonacci(n - 2)\n# Testando a função fibonacci",
+        "detail": "referencial.funcional.recursao",
+        "documentation": {}
+    },
+    {
+        "label": "aplicar_desconto",
+        "kind": 2,
+        "importPath": "referencial.imperativo.combinacao-paradigmas",
+        "description": "referencial.imperativo.combinacao-paradigmas",
+        "peekOfCode": "def aplicar_desconto(preco, desconto):\n    return preco * (1 - desconto)  # Calcula o preço após aplicar o desconto\n# Função para calcular o total com desconto em uma lista de preços\ndef calcular_total_com_desconto(precos, desconto):\n    total = 0  # Inicializa o total em zero\n    # Percorre cada preço na lista\n    for preco in precos:\n        total += aplicar_desconto(preco, desconto)  # Adiciona o preço com desconto ao total\n    return total  # Retorna o total após aplicar todos os descontos\n# Lista de preços",
+        "detail": "referencial.imperativo.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_total_com_desconto",
+        "kind": 2,
+        "importPath": "referencial.imperativo.combinacao-paradigmas",
+        "description": "referencial.imperativo.combinacao-paradigmas",
+        "peekOfCode": "def calcular_total_com_desconto(precos, desconto):\n    total = 0  # Inicializa o total em zero\n    # Percorre cada preço na lista\n    for preco in precos:\n        total += aplicar_desconto(preco, desconto)  # Adiciona o preço com desconto ao total\n    return total  # Retorna o total após aplicar todos os descontos\n# Lista de preços\nprecos = [100, 200, 300, 400, 500]  # Preços de produtos\ndesconto = 0.1  # 10% de desconto\n# Calculando o total com desconto",
+        "detail": "referencial.imperativo.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_preco_medio",
+        "kind": 2,
+        "importPath": "referencial.imperativo.combinacao-paradigmas",
+        "description": "referencial.imperativo.combinacao-paradigmas",
+        "peekOfCode": "def calcular_preco_medio(precos, desconto):\n    total = calcular_total_com_desconto(precos, desconto)  # Calcula o total com desconto\n    media = total / len(precos)  # Calcula a média dividindo o total pelo número de preços\n    return media  # Retorna o preço médio\n# Calculando o preço médio após o desconto\npreco_medio = calcular_preco_medio(precos, desconto)\nprint(f\"Preço médio com desconto: R$ {preco_medio:.2f}\")  # Saída esperada: Preço médio com desconto: R$ 270.00",
+        "detail": "referencial.imperativo.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "precos",
+        "kind": 5,
+        "importPath": "referencial.imperativo.combinacao-paradigmas",
+        "description": "referencial.imperativo.combinacao-paradigmas",
+        "peekOfCode": "precos = [100, 200, 300, 400, 500]  # Preços de produtos\ndesconto = 0.1  # 10% de desconto\n# Calculando o total com desconto\ntotal = calcular_total_com_desconto(precos, desconto)\nprint(f\"Total com desconto: R$ {total:.2f}\")  # Saída esperada: Total com desconto: R$ 1350.00\n# Exemplo adicional: Função para calcular o preço médio após aplicar o desconto\ndef calcular_preco_medio(precos, desconto):\n    total = calcular_total_com_desconto(precos, desconto)  # Calcula o total com desconto\n    media = total / len(precos)  # Calcula a média dividindo o total pelo número de preços\n    return media  # Retorna o preço médio",
+        "detail": "referencial.imperativo.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "desconto",
+        "kind": 5,
+        "importPath": "referencial.imperativo.combinacao-paradigmas",
+        "description": "referencial.imperativo.combinacao-paradigmas",
+        "peekOfCode": "desconto = 0.1  # 10% de desconto\n# Calculando o total com desconto\ntotal = calcular_total_com_desconto(precos, desconto)\nprint(f\"Total com desconto: R$ {total:.2f}\")  # Saída esperada: Total com desconto: R$ 1350.00\n# Exemplo adicional: Função para calcular o preço médio após aplicar o desconto\ndef calcular_preco_medio(precos, desconto):\n    total = calcular_total_com_desconto(precos, desconto)  # Calcula o total com desconto\n    media = total / len(precos)  # Calcula a média dividindo o total pelo número de preços\n    return media  # Retorna o preço médio\n# Calculando o preço médio após o desconto",
+        "detail": "referencial.imperativo.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "total",
+        "kind": 5,
+        "importPath": "referencial.imperativo.combinacao-paradigmas",
+        "description": "referencial.imperativo.combinacao-paradigmas",
+        "peekOfCode": "total = calcular_total_com_desconto(precos, desconto)\nprint(f\"Total com desconto: R$ {total:.2f}\")  # Saída esperada: Total com desconto: R$ 1350.00\n# Exemplo adicional: Função para calcular o preço médio após aplicar o desconto\ndef calcular_preco_medio(precos, desconto):\n    total = calcular_total_com_desconto(precos, desconto)  # Calcula o total com desconto\n    media = total / len(precos)  # Calcula a média dividindo o total pelo número de preços\n    return media  # Retorna o preço médio\n# Calculando o preço médio após o desconto\npreco_medio = calcular_preco_medio(precos, desconto)\nprint(f\"Preço médio com desconto: R$ {preco_medio:.2f}\")  # Saída esperada: Preço médio com desconto: R$ 270.00",
+        "detail": "referencial.imperativo.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "preco_medio",
+        "kind": 5,
+        "importPath": "referencial.imperativo.combinacao-paradigmas",
+        "description": "referencial.imperativo.combinacao-paradigmas",
+        "peekOfCode": "preco_medio = calcular_preco_medio(precos, desconto)\nprint(f\"Preço médio com desconto: R$ {preco_medio:.2f}\")  # Saída esperada: Preço médio com desconto: R$ 270.00",
+        "detail": "referencial.imperativo.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "limite",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estrutura-repeticao",
+        "description": "referencial.imperativo.estrutura-repeticao",
+        "peekOfCode": "limite = 100  # Define o limite superior para a soma\nsoma = 0      # Inicializa a variável soma em zero\nnumero = 1    # Começa com o número 1\n# Enquanto a soma for menor que o limite, continue somando\nwhile soma < limite:\n    soma += numero  # Adiciona o número atual à soma\n    numero += 1     # Incrementa o número para o próximo valor\n# Imprime o resultado da soma e o último número adicionado\nprint(f\"A soma é {soma} e o último número adicionado foi {numero-1}\")\n# Exemplo 2: Encontrar o primeiro número divisível por 7 em um intervalo",
+        "detail": "referencial.imperativo.estrutura-repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "soma",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estrutura-repeticao",
+        "description": "referencial.imperativo.estrutura-repeticao",
+        "peekOfCode": "soma = 0      # Inicializa a variável soma em zero\nnumero = 1    # Começa com o número 1\n# Enquanto a soma for menor que o limite, continue somando\nwhile soma < limite:\n    soma += numero  # Adiciona o número atual à soma\n    numero += 1     # Incrementa o número para o próximo valor\n# Imprime o resultado da soma e o último número adicionado\nprint(f\"A soma é {soma} e o último número adicionado foi {numero-1}\")\n# Exemplo 2: Encontrar o primeiro número divisível por 7 em um intervalo\n# Percorre os números de 1 a 99",
+        "detail": "referencial.imperativo.estrutura-repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "numero",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estrutura-repeticao",
+        "description": "referencial.imperativo.estrutura-repeticao",
+        "peekOfCode": "numero = 1    # Começa com o número 1\n# Enquanto a soma for menor que o limite, continue somando\nwhile soma < limite:\n    soma += numero  # Adiciona o número atual à soma\n    numero += 1     # Incrementa o número para o próximo valor\n# Imprime o resultado da soma e o último número adicionado\nprint(f\"A soma é {soma} e o último número adicionado foi {numero-1}\")\n# Exemplo 2: Encontrar o primeiro número divisível por 7 em um intervalo\n# Percorre os números de 1 a 99\nfor numero in range(1, 100):",
+        "detail": "referencial.imperativo.estrutura-repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estrutura-repeticao",
+        "description": "referencial.imperativo.estrutura-repeticao",
+        "peekOfCode": "numeros = [1, 2, 3, 4, 5]  # Lista de números a ser verificada\ntodos_positivos = True      # Inicializa a variável como True\n# Percorre cada número na lista para verificar se todos são positivos\nfor numero in numeros:\n    if numero <= 0:  # Verifica se o número é menor ou igual a zero\n        todos_positivos = False  # Se encontrar um número não positivo, altera a variável para False\n        break  # Encerra o loop, pois não é necessário verificar mais\n# Imprime se todos os números são positivos ou não\nprint(\"Todos os números são positivos?\", todos_positivos)  # Saída: True",
+        "detail": "referencial.imperativo.estrutura-repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "todos_positivos",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estrutura-repeticao",
+        "description": "referencial.imperativo.estrutura-repeticao",
+        "peekOfCode": "todos_positivos = True      # Inicializa a variável como True\n# Percorre cada número na lista para verificar se todos são positivos\nfor numero in numeros:\n    if numero <= 0:  # Verifica se o número é menor ou igual a zero\n        todos_positivos = False  # Se encontrar um número não positivo, altera a variável para False\n        break  # Encerra o loop, pois não é necessário verificar mais\n# Imprime se todos os números são positivos ou não\nprint(\"Todos os números são positivos?\", todos_positivos)  # Saída: True",
+        "detail": "referencial.imperativo.estrutura-repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "encontrar_maior_menor",
+        "kind": 2,
+        "importPath": "referencial.imperativo.estruturado",
+        "description": "referencial.imperativo.estruturado",
+        "peekOfCode": "def encontrar_maior_menor(numeros):\n    # Se a lista estiver vazia, retorna None para ambos os valores\n    if not numeros:\n        return None, None\n    # Inicializa maior e menor como o primeiro elemento da lista\n    maior = menor = numeros[0]\n    # Percorre cada número na lista para verificar qual é o maior e o menor\n    for numero in numeros:\n        if numero > maior:          # Se o número atual for maior que o maior registrado, atualiza o maior\n            maior = numero",
+        "detail": "referencial.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_media",
+        "kind": 2,
+        "importPath": "referencial.imperativo.estruturado",
+        "description": "referencial.imperativo.estruturado",
+        "peekOfCode": "def calcular_media(notas):\n    soma = 0            # Inicializa a soma das notas\n    quantidade = 0      # Inicializa a quantidade de notas\n    for nota in notas:  # Percorre cada nota na lista\n        soma += nota    # Adiciona a nota atual à soma total\n        quantidade += 1 # Incrementa a quantidade de notas\n    media = soma / quantidade  # Calcula a média dividindo a soma pelo total de notas\n    return media               # Retorna a média\n# Função para classificar o aluno com base na média das notas\ndef classificar_aluno(notas):",
+        "detail": "referencial.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "classificar_aluno",
+        "kind": 2,
+        "importPath": "referencial.imperativo.estruturado",
+        "description": "referencial.imperativo.estruturado",
+        "peekOfCode": "def classificar_aluno(notas):\n    media = calcular_media(notas)  # Calcula a média usando a função auxiliar\n    # Classifica o aluno de acordo com a média\n    if media >= 7:\n        return \"Aprovado\"       # Retorna \"Aprovado\" se a média for maior ou igual a 7\n    elif media >= 5:\n        return \"Recuperação\"    # Retorna \"Recuperação\" se a média estiver entre 5 e 6.9\n    else:\n        return \"Reprovado\"      # Retorna \"Reprovado\" se a média for inferior a 5\n# Exemplo de uso",
+        "detail": "referencial.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estruturado",
+        "description": "referencial.imperativo.estruturado",
+        "peekOfCode": "numeros = [3, 1, 7, 4, 2]\n# Chama a função para encontrar o maior e o menor número e armazena os resultados\nmaior, menor = encontrar_maior_menor(numeros)\n# Imprime os resultados\nprint(f\"Maior: {maior}, Menor: {menor}\")  # Saída esperada: Maior: 7, Menor: 1\n# Função para calcular a média de uma lista de notas\ndef calcular_media(notas):\n    soma = 0            # Inicializa a soma das notas\n    quantidade = 0      # Inicializa a quantidade de notas\n    for nota in notas:  # Percorre cada nota na lista",
+        "detail": "referencial.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "notas_aluno",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estruturado",
+        "description": "referencial.imperativo.estruturado",
+        "peekOfCode": "notas_aluno = [7, 6, 5, 8, 9]   # Lista de notas do aluno\n# Chama a função para classificar o aluno e armazena o resultado\nresultado = classificar_aluno(notas_aluno)\n# Imprime o resultado da classificação\nprint(f\"Resultado: {resultado}\")  # Saída esperada: Aprovado",
+        "detail": "referencial.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "resultado",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estruturado",
+        "description": "referencial.imperativo.estruturado",
+        "peekOfCode": "resultado = classificar_aluno(notas_aluno)\n# Imprime o resultado da classificação\nprint(f\"Resultado: {resultado}\")  # Saída esperada: Aprovado",
+        "detail": "referencial.imperativo.estruturado",
+        "documentation": {}
+    },
+    {
+        "label": "numero",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estruturas-condicionais",
+        "description": "referencial.imperativo.estruturas-condicionais",
+        "peekOfCode": "numero = 7  # Definindo o número a ser verificado\n# Verifica se o número é par (divisível por 2)\nif numero % 2 == 0:\n    print(f\"{numero} é par.\")  # Se for par, imprime que o número é par.\nelse:\n    print(f\"{numero} é ímpar.\")  # Se não for par, imprime que o número é ímpar.  # Saída: 7 é ímpar.\n# Exemplo 2: Substituir números negativos por zero em uma lista\nnumeros = [5, -3, 7, -1, 0, -6]  # Lista de números\n# Percorre a lista para verificar cada elemento\nfor i in range(len(numeros)):",
+        "detail": "referencial.imperativo.estruturas-condicionais",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estruturas-condicionais",
+        "description": "referencial.imperativo.estruturas-condicionais",
+        "peekOfCode": "numeros = [5, -3, 7, -1, 0, -6]  # Lista de números\n# Percorre a lista para verificar cada elemento\nfor i in range(len(numeros)):\n    # Se o número for negativo, substitui por zero\n    if numeros[i] < 0:\n        numeros[i] = 0\n# Imprime a lista após a substituição\nprint(numeros)  # Saída: [5, 0, 7, 0, 0, 0]\n# Exemplo 3: Verificar se uma pessoa pode votar com base na idade\nidade = 16  # Definindo a idade da pessoa",
+        "detail": "referencial.imperativo.estruturas-condicionais",
+        "documentation": {}
+    },
+    {
+        "label": "idade",
+        "kind": 5,
+        "importPath": "referencial.imperativo.estruturas-condicionais",
+        "description": "referencial.imperativo.estruturas-condicionais",
+        "peekOfCode": "idade = 16  # Definindo a idade da pessoa\n# Verifica se a idade é suficiente para votar\nif idade >= 16:\n    print(\"A pessoa pode votar.\")  # Se a idade for 16 ou mais, imprime que a pessoa pode votar.\nelse:\n    print(\"A pessoa não pode votar.\")  # Se a idade for menor que 16, imprime que a pessoa não pode votar.",
+        "detail": "referencial.imperativo.estruturas-condicionais",
+        "documentation": {}
+    },
+    {
+        "label": "somar_lista",
+        "kind": 2,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "def somar_lista(numeros):\n    soma = 0  # Inicializa a variável soma em zero\n    # Percorre cada número na lista\n    for numero in numeros:\n        soma += numero  # Adiciona o número atual à soma total\n    return soma  # Retorna a soma total dos números\n# Lista de números a ser somada\nnumeros = [1, 2, 3, 4, 5]\n# Chama a função e imprime o resultado da soma\nprint(somar_lista(numeros))  # Saída esperada: 15",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "gerar_pares",
+        "kind": 2,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "def gerar_pares(inicio, fim):\n    pares = []  # Inicializa uma lista vazia para armazenar os números pares\n    # Percorre todos os números no intervalo de inicio a fim (incluindo o fim)\n    for numero in range(inicio, fim + 1):\n        if numero % 2 == 0:  # Verifica se o número é par\n            pares.append(numero)  # Adiciona o número par à lista de pares\n    return pares  # Retorna a lista de números pares\n# Definindo o intervalo para geração dos números pares\ninicio = 1\nfim = 10",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_fatorial",
+        "kind": 2,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "def calcular_fatorial(n):\n    if n < 0:\n        return None  # Retorna None se o número for negativo (fatorial não definido)\n    fatorial = 1  # Inicializa o fatorial em 1\n    # Percorre todos os números de 1 até n\n    for i in range(1, n + 1):\n        fatorial *= i  # Multiplica o fatorial pelo número atual\n    return fatorial  # Retorna o fatorial calculado\n# Exemplo de uso da função calcular_fatorial\nnumero = 5",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "numeros = [1, 2, 3, 4, 5]\n# Chama a função e imprime o resultado da soma\nprint(somar_lista(numeros))  # Saída esperada: 15\n# Função para gerar uma lista de números pares em um intervalo\ndef gerar_pares(inicio, fim):\n    pares = []  # Inicializa uma lista vazia para armazenar os números pares\n    # Percorre todos os números no intervalo de inicio a fim (incluindo o fim)\n    for numero in range(inicio, fim + 1):\n        if numero % 2 == 0:  # Verifica se o número é par\n            pares.append(numero)  # Adiciona o número par à lista de pares",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "inicio",
+        "kind": 5,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "inicio = 1\nfim = 10\n# Chama a função para gerar números pares e armazena o resultado\npares = gerar_pares(inicio, fim)\n# Imprime a lista de números pares gerados\nprint(pares)  # Saída esperada: [2, 4, 6, 8, 10]\n# Função para calcular o fatorial de um número\ndef calcular_fatorial(n):\n    if n < 0:\n        return None  # Retorna None se o número for negativo (fatorial não definido)",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "fim",
+        "kind": 5,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "fim = 10\n# Chama a função para gerar números pares e armazena o resultado\npares = gerar_pares(inicio, fim)\n# Imprime a lista de números pares gerados\nprint(pares)  # Saída esperada: [2, 4, 6, 8, 10]\n# Função para calcular o fatorial de um número\ndef calcular_fatorial(n):\n    if n < 0:\n        return None  # Retorna None se o número for negativo (fatorial não definido)\n    fatorial = 1  # Inicializa o fatorial em 1",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "pares",
+        "kind": 5,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "pares = gerar_pares(inicio, fim)\n# Imprime a lista de números pares gerados\nprint(pares)  # Saída esperada: [2, 4, 6, 8, 10]\n# Função para calcular o fatorial de um número\ndef calcular_fatorial(n):\n    if n < 0:\n        return None  # Retorna None se o número for negativo (fatorial não definido)\n    fatorial = 1  # Inicializa o fatorial em 1\n    # Percorre todos os números de 1 até n\n    for i in range(1, n + 1):",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "numero",
+        "kind": 5,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "numero = 5\nresultado_fatorial = calcular_fatorial(numero)\n# Imprime o resultado do fatorial\nprint(f\"Fatorial de {numero}: {resultado_fatorial}\")  # Saída esperada: Fatorial de 5: 120",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "resultado_fatorial",
+        "kind": 5,
+        "importPath": "referencial.imperativo.procedural",
+        "description": "referencial.imperativo.procedural",
+        "peekOfCode": "resultado_fatorial = calcular_fatorial(numero)\n# Imprime o resultado do fatorial\nprint(f\"Fatorial de {numero}: {resultado_fatorial}\")  # Saída esperada: Fatorial de 5: 120",
+        "detail": "referencial.imperativo.procedural",
+        "documentation": {}
+    },
+    {
+        "label": "FormaGeometrica",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "class FormaGeometrica(ABC):\n    @abstractmethod\n    def calcular_area(self):\n        \"\"\"Método abstrato para calcular a área de uma forma geométrica.\n        Deve ser implementado por subclasses.\"\"\"\n        raise NotImplementedError(\"Este método deve ser implementado por subclasses.\")\n# Subclasse que representa um círculo e implementa a interface da classe abstrata\nclass Circulo(FormaGeometrica):\n    def __init__(self, raio):\n        \"\"\"Inicializa um círculo com um raio específico.\"\"\"",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "Circulo",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "class Circulo(FormaGeometrica):\n    def __init__(self, raio):\n        \"\"\"Inicializa um círculo com um raio específico.\"\"\"\n        self.raio = raio\n    def calcular_area(self):\n        \"\"\"Calcula e retorna a área do círculo usando a fórmula πr².\"\"\"\n        return 3.14 * self.raio ** 2  # Usando 3.14 como uma aproximação de π\n# Subclasse que representa um retângulo e implementa a interface da classe abstrata\nclass Retangulo(FormaGeometrica):\n    def __init__(self, largura, altura):",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "Retangulo",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "class Retangulo(FormaGeometrica):\n    def __init__(self, largura, altura):\n        \"\"\"Inicializa um retângulo com largura e altura específicos.\"\"\"\n        self.largura = largura\n        self.altura = altura\n    def calcular_area(self):\n        \"\"\"Calcula e retorna a área do retângulo usando a fórmula largura * altura.\"\"\"\n        return self.largura * self.altura\n# Instanciando as subclasses e calculando a área de cada forma\nformas = [Circulo(5), Retangulo(3, 4)]  # Criando uma lista de formas geométricas",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "Motor",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "class Motor:\n    def __init__(self, potencia):\n        \"\"\"Inicializa o motor com uma potência específica (em CV).\"\"\"\n        self.potencia = potencia\n# Classe que representa um carro\nclass Carro:\n    def __init__(self, marca: str, modelo: str, motor: Motor):\n        \"\"\"Inicializa um carro com marca, modelo e um objeto Motor.\n        A composição é utilizada aqui, indicando que um carro 'tem um' motor.\"\"\"\n        self.marca = marca",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "Carro",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "class Carro:\n    def __init__(self, marca: str, modelo: str, motor: Motor):\n        \"\"\"Inicializa um carro com marca, modelo e um objeto Motor.\n        A composição é utilizada aqui, indicando que um carro 'tem um' motor.\"\"\"\n        self.marca = marca\n        self.modelo = modelo\n        self.motor = motor  # O carro tem uma instância da classe Motor\n    def exibir_detalhes(self):\n        \"\"\"Exibe os detalhes do carro, incluindo a marca, modelo e potência do motor.\"\"\"\n        print(f\"Carro: {self.marca} {self.modelo}, Motor: {self.motor.potencia}CV\")",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "formas",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "formas = [Circulo(5), Retangulo(3, 4)]  # Criando uma lista de formas geométricas\nfor forma in formas:\n    # Para cada forma, chama o método calcular_area e imprime o resultado\n    print(f\"Área: {forma.calcular_area()}\")  # Saída: Área: 78.5 para o círculo e Área: 12 para o retângulo\n# === Composição ===\n# Classe que representa um motor\nclass Motor:\n    def __init__(self, potencia):\n        \"\"\"Inicializa o motor com uma potência específica (em CV).\"\"\"\n        self.potencia = potencia",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "motor",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "motor = Motor(150)  # Cria um motor com 150CV de potência\ncarro = Carro(\"Honda\", \"Civic\", motor)  # Cria um carro Honda Civic com o motor criado\n# Exibe os detalhes do carro\ncarro.exibir_detalhes()  # Saída: Carro: Honda Civic, Motor: 150CV",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "carro",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.abstracao-composicao",
+        "description": "referencial.orientada-objeto.abstracao-composicao",
+        "peekOfCode": "carro = Carro(\"Honda\", \"Civic\", motor)  # Cria um carro Honda Civic com o motor criado\n# Exibe os detalhes do carro\ncarro.exibir_detalhes()  # Saída: Carro: Honda Civic, Motor: 150CV",
+        "detail": "referencial.orientada-objeto.abstracao-composicao",
+        "documentation": {}
+    },
+    {
+        "label": "Carro",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.classes-objetos",
+        "description": "referencial.orientada-objeto.classes-objetos",
+        "peekOfCode": "class Carro:\n    def __init__(self, marca, modelo, ano):\n        \"\"\"Inicializa um objeto Carro com marca, modelo e ano específicos.\n        Args:\n            marca (str): A marca do carro.\n            modelo (str): O modelo do carro.\n            ano (int): O ano de fabricação do carro.\n        \"\"\"\n        self.marca = marca  # Atributo que armazena a marca do carro\n        self.modelo = modelo  # Atributo que armazena o modelo do carro",
+        "detail": "referencial.orientada-objeto.classes-objetos",
+        "documentation": {}
+    },
+    {
+        "label": "meu_carro",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.classes-objetos",
+        "description": "referencial.orientada-objeto.classes-objetos",
+        "peekOfCode": "meu_carro = Carro(\"Toyota\", \"Corolla\", 2020)  # `meu_carro` é uma instância da classe Carro\n# Chamando um método do objeto\nmeu_carro.exibir_detalhes()  # Saída: Carro: Toyota Corolla, Ano: 2020\n# === Diferença entre Classe e Objeto ===\n# Classe: é uma estrutura que define um tipo de objeto. \n# Ela contém atributos (variáveis) e métodos (funções) que descrevem o comportamento e as propriedades dos objetos.\n# Exemplo: A classe `Carro` define como um carro deve se comportar e quais dados ele deve ter.\n# Objeto: é uma instância da classe. Cada objeto possui seus próprios valores para os atributos definidos pela classe.\n# Exemplo: `meu_carro` é um objeto da classe `Carro`, que possui a marca \"Toyota\", modelo \"Corolla\" e ano 2020.",
+        "detail": "referencial.orientada-objeto.classes-objetos",
+        "documentation": {}
+    },
+    {
+        "label": "Funcionario",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.combinacao-paradigmas",
+        "description": "referencial.orientada-objeto.combinacao-paradigmas",
+        "peekOfCode": "class Funcionario:\n    def __init__(self, nome: str, salario: float):\n        \"\"\"Inicializa um funcionário com nome e salário.\n        Args:\n            nome (str): Nome do funcionário.\n            salario (float): Salário do funcionário.\n        \"\"\"\n        self.nome = nome  # Atributo público que armazena o nome do funcionário\n        self.__salario = salario  # Atributo privado que armazena o salário\n    def get_salario(self):",
+        "detail": "referencial.orientada-objeto.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_media_salarial",
+        "kind": 2,
+        "importPath": "referencial.orientada-objeto.combinacao-paradigmas",
+        "description": "referencial.orientada-objeto.combinacao-paradigmas",
+        "peekOfCode": "def calcular_media_salarial(funcionarios: List[Funcionario]):\n    \"\"\"Calcula a média salarial de uma lista de funcionários.\n    Args:\n        funcionarios (list): Lista de objetos do tipo Funcionario.\n    Returns:\n        float: Média salarial dos funcionários.\n    \"\"\"\n    total_salarios = 0\n    quantidade = len(funcionarios)  # Obtém a quantidade de funcionários\n    for funcionario in funcionarios:",
+        "detail": "referencial.orientada-objeto.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "funcionarios",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.combinacao-paradigmas",
+        "description": "referencial.orientada-objeto.combinacao-paradigmas",
+        "peekOfCode": "funcionarios = [\n    Funcionario(\"Alice\", 3000),\n    Funcionario(\"Bob\", 4000),\n    Funcionario(\"Charlie\", 5000)\n]\n# Exibindo os salários iniciais\nfor f in funcionarios:\n    print(f\"Salário inicial de {f.nome}: R$ {f.get_salario():.2f}\")\n# Aumentando o salário de Bob em 10%\nfuncionarios[1].aumentar_salario(10)  # Aumenta o salário de Bob",
+        "detail": "referencial.orientada-objeto.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "media",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.combinacao-paradigmas",
+        "description": "referencial.orientada-objeto.combinacao-paradigmas",
+        "peekOfCode": "media = calcular_media_salarial(funcionarios)\nprint(f\"\\nMédia salarial: R$ {media:.2f}\")",
+        "detail": "referencial.orientada-objeto.combinacao-paradigmas",
+        "documentation": {}
+    },
+    {
+        "label": "ContaBancaria",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.encapsulamento",
+        "description": "referencial.orientada-objeto.encapsulamento",
+        "peekOfCode": "class ContaBancaria:\n    def __init__(self, titular, saldo_inicial=0):\n        \"\"\"Inicializa uma conta bancária com um titular e um saldo inicial.\n        Args:\n            titular (str): Nome do titular da conta.\n            saldo_inicial (float, optional): Saldo inicial da conta. Padrão é 0.\n        \"\"\"\n        self.titular = titular  # Atributo público que armazena o nome do titular\n        self.__saldo = saldo_inicial  # Atributo privado (encapsulado) para armazenar o saldo\n    # Método para obter o saldo (getter)",
+        "detail": "referencial.orientada-objeto.encapsulamento",
+        "documentation": {}
+    },
+    {
+        "label": "conta",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.encapsulamento",
+        "description": "referencial.orientada-objeto.encapsulamento",
+        "peekOfCode": "conta = ContaBancaria(\"Maria\", 500)  # Cria uma conta bancária para Maria com saldo inicial de 500\nprint(conta.get_saldo())  # Acessa o saldo de forma segura, usando o método getter\n# Realizando operações na conta\nconta.depositar(200)      # Deposita 200 na conta\nconta.sacar(100)          # Saca 100 da conta\nprint(conta.get_saldo())   # Verifica o saldo atualizado\n# Tentando acessar o saldo diretamente resultará em erro de acesso, pois é privado:\n# print(conta.__saldo)  # Descomentar esta linha resultará em AttributeError: 'ContaBancaria' object has no attribute '__saldo'",
+        "detail": "referencial.orientada-objeto.encapsulamento",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.heranca-polimorfismo",
+        "description": "referencial.orientada-objeto.heranca-polimorfismo",
+        "peekOfCode": "class Animal:\n    nome: str  # Atributo que armazena o nome do animal\n    def __init__(self, nome: str):\n        \"\"\"Inicializa um objeto do tipo Animal com um nome específico.\n        Args:\n            nome (str): O nome do animal.\n        \"\"\"\n        self.nome = nome  # Atribui o nome passado como parâmetro ao atributo nome\n    def emitir_som(self):\n        \"\"\"Método abstrato que deve ser implementado pelas subclasses.",
+        "detail": "referencial.orientada-objeto.heranca-polimorfismo",
+        "documentation": {}
+    },
+    {
+        "label": "Cachorro",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.heranca-polimorfismo",
+        "description": "referencial.orientada-objeto.heranca-polimorfismo",
+        "peekOfCode": "class Cachorro(Animal):\n    def emitir_som(self):\n        \"\"\"Implementa o método emitir_som para cachorros.\"\"\"\n        print(f\"{self.nome} faz: Au au!\")  # Imprime o som que o cachorro faz\n# Subclasse que herda de Animal e representa um gato\nclass Gato(Animal):\n    def emitir_som(self):\n        \"\"\"Implementa o método emitir_som para gatos.\"\"\"\n        print(f\"{self.nome} faz: Miau!\")  # Imprime o som que o gato faz\n# Criando objetos das subclasses e chamando seus métodos",
+        "detail": "referencial.orientada-objeto.heranca-polimorfismo",
+        "documentation": {}
+    },
+    {
+        "label": "Gato",
+        "kind": 6,
+        "importPath": "referencial.orientada-objeto.heranca-polimorfismo",
+        "description": "referencial.orientada-objeto.heranca-polimorfismo",
+        "peekOfCode": "class Gato(Animal):\n    def emitir_som(self):\n        \"\"\"Implementa o método emitir_som para gatos.\"\"\"\n        print(f\"{self.nome} faz: Miau!\")  # Imprime o som que o gato faz\n# Criando objetos das subclasses e chamando seus métodos\ncachorro = Cachorro(\"Rex\")  # Cria um objeto Cachorro com o nome \"Rex\"\ngato = Gato(\"Mia\")          # Cria um objeto Gato com o nome \"Mia\"\n# Chamando o método emitir_som de cada objeto\ncachorro.emitir_som()  # Saída: Rex faz: Au au!\ngato.emitir_som()      # Saída: Mia faz: Miau!",
+        "detail": "referencial.orientada-objeto.heranca-polimorfismo",
+        "documentation": {}
+    },
+    {
+        "label": "cachorro",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.heranca-polimorfismo",
+        "description": "referencial.orientada-objeto.heranca-polimorfismo",
+        "peekOfCode": "cachorro = Cachorro(\"Rex\")  # Cria um objeto Cachorro com o nome \"Rex\"\ngato = Gato(\"Mia\")          # Cria um objeto Gato com o nome \"Mia\"\n# Chamando o método emitir_som de cada objeto\ncachorro.emitir_som()  # Saída: Rex faz: Au au!\ngato.emitir_som()      # Saída: Mia faz: Miau!",
+        "detail": "referencial.orientada-objeto.heranca-polimorfismo",
+        "documentation": {}
+    },
+    {
+        "label": "gato",
+        "kind": 5,
+        "importPath": "referencial.orientada-objeto.heranca-polimorfismo",
+        "description": "referencial.orientada-objeto.heranca-polimorfismo",
+        "peekOfCode": "gato = Gato(\"Mia\")          # Cria um objeto Gato com o nome \"Mia\"\n# Chamando o método emitir_som de cada objeto\ncachorro.emitir_som()  # Saída: Rex faz: Au au!\ngato.emitir_som()      # Saída: Mia faz: Miau!",
+        "detail": "referencial.orientada-objeto.heranca-polimorfismo",
+        "documentation": {}
+    }
+]
