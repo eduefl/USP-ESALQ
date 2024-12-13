@@ -1,0 +1,968 @@
+[
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "domain.user.user_entity",
+        "description": "domain.user.user_entity",
+        "isExtraImport": true,
+        "detail": "domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "domain.task.task_entity",
+        "description": "domain.task.task_entity",
+        "isExtraImport": true,
+        "detail": "domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "importPath": "domain.user.user_repository_interface",
+        "description": "domain.user.user_repository_interface",
+        "isExtraImport": true,
+        "detail": "domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryUserRepository",
+        "importPath": "infra.user.in_memory_user_repository",
+        "description": "infra.user.in_memory_user_repository",
+        "isExtraImport": true,
+        "detail": "infra.user.in_memory_user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryUserRepository",
+        "importPath": "infra.user.in_memory_user_repository",
+        "description": "infra.user.in_memory_user_repository",
+        "isExtraImport": true,
+        "detail": "infra.user.in_memory_user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryUserRepository",
+        "importPath": "infra.user.in_memory_user_repository",
+        "description": "infra.user.in_memory_user_repository",
+        "isExtraImport": true,
+        "detail": "infra.user.in_memory_user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryUserRepository",
+        "importPath": "infra.user.in_memory_user_repository",
+        "description": "infra.user.in_memory_user_repository",
+        "isExtraImport": true,
+        "detail": "infra.user.in_memory_user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUser",
+        "importPath": "application.user.create_user",
+        "description": "application.user.create_user",
+        "isExtraImport": true,
+        "detail": "application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserRequest",
+        "importPath": "application.user.create_user",
+        "description": "application.user.create_user",
+        "isExtraImport": true,
+        "detail": "application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUser",
+        "importPath": "application.user.create_user",
+        "description": "application.user.create_user",
+        "isExtraImport": true,
+        "detail": "application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserRequest",
+        "importPath": "application.user.create_user",
+        "description": "application.user.create_user",
+        "isExtraImport": true,
+        "detail": "application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserRequest",
+        "importPath": "application.user.create_user",
+        "description": "application.user.create_user",
+        "isExtraImport": true,
+        "detail": "application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserResponse",
+        "importPath": "application.user.create_user",
+        "description": "application.user.create_user",
+        "isExtraImport": true,
+        "detail": "application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUser",
+        "importPath": "application.user.create_user",
+        "description": "application.user.create_user",
+        "isExtraImport": true,
+        "detail": "application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUser",
+        "importPath": "application.user.find_user",
+        "description": "application.user.find_user",
+        "isExtraImport": true,
+        "detail": "application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserRequest",
+        "importPath": "application.user.find_user",
+        "description": "application.user.find_user",
+        "isExtraImport": true,
+        "detail": "application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUser",
+        "importPath": "application.user.find_user",
+        "description": "application.user.find_user",
+        "isExtraImport": true,
+        "detail": "application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserRequest",
+        "importPath": "application.user.find_user",
+        "description": "application.user.find_user",
+        "isExtraImport": true,
+        "detail": "application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserRequest",
+        "importPath": "application.user.find_user",
+        "description": "application.user.find_user",
+        "isExtraImport": true,
+        "detail": "application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserResponse",
+        "importPath": "application.user.find_user",
+        "description": "application.user.find_user",
+        "isExtraImport": true,
+        "detail": "application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUser",
+        "importPath": "application.user.find_user",
+        "description": "application.user.find_user",
+        "isExtraImport": true,
+        "detail": "application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "user_routers",
+        "importPath": "infra.api.routers",
+        "description": "infra.api.routers",
+        "isExtraImport": true,
+        "detail": "infra.api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "infra.api.main",
+        "description": "infra.api.main",
+        "isExtraImport": true,
+        "detail": "infra.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "infra.api.main",
+        "description": "infra.api.main",
+        "isExtraImport": true,
+        "detail": "infra.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "create_autospec",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "TestUserWithTasks",
+        "kind": 6,
+        "importPath": "aula.src.app.domain.integration.test_user_entity",
+        "description": "aula.src.app.domain.integration.test_user_entity",
+        "peekOfCode": "class TestUserWithTasks:\n    # Teste para adicionar tarefas ao usuario\n    def test_collect_tasks(self):\n        user_id = uuid.uuid4()\n        user_name = \"Integrador\"\n        user = User(id = user_id, name = user_name)\n        task_id = uuid.uuid4()\n        user_id = user_id\n        title = 'Integrar'\n        description = 'Tem que integrar para interar'",
+        "detail": "aula.src.app.domain.integration.test_user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "aula.src.app.domain.task.task_entity",
+        "description": "aula.src.app.domain.task.task_entity",
+        "peekOfCode": "class Task:\n    id          : uuid.UUID\n    user_id     : uuid.UUID\n    title       : str\n    description : str\n    completed   : bool\n    def __init__(self,          \n                 id: uuid.UUID,\n                 user_id     : uuid.UUID,\n                 title       : str,",
+        "detail": "aula.src.app.domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "aula.src.app.domain.user.user_entity",
+        "description": "aula.src.app.domain.user.user_entity",
+        "peekOfCode": "class User:\n    id: uuid.UUID\n    name: str \n    tasks: typing.List[Task]\n    def __init__(self, id: uuid.UUID,  name: str):\n        self.id = id\n        self.name = name        \n        self.tasks = []\n        self.validate()\n    def validate(self):",
+        "detail": "aula.src.app.domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TestTask",
+        "kind": 6,
+        "importPath": "aula.src.app.tests.domain.unit.test_task_entity",
+        "description": "aula.src.app.tests.domain.unit.test_task_entity",
+        "peekOfCode": "class TestTask:\n    # Teste para verificar o construtor da classe tarefa\n    def test_task_initialization(self):\n        task_id = uuid.uuid4()\n        user_id = uuid.uuid4()         \n        title = 'invadi o morrao'\n        description = 'tem que ter disposicao'\n        completed = False        \n        task = Task(\n            id          =   task_id,",
+        "detail": "aula.src.app.tests.domain.unit.test_task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Testuser",
+        "kind": 6,
+        "importPath": "aula.src.app.tests.domain.unit.test_user_entity",
+        "description": "aula.src.app.tests.domain.unit.test_user_entity",
+        "peekOfCode": "class Testuser:\n    # Teste para constriir o Usuario\n    def test_user_initialization(self):\n        user_id = uuid.uuid4()\n        user_name = \"Xandao\"\n        user = User(id = user_id, name = user_name)\n        assert  user.id == user_id\n        assert  user.name == user_name        \n    # Teste para validacao do ID do usuario \n    def test_user_id_validation(self):",
+        "detail": "aula.src.app.tests.domain.unit.test_user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserRequest",
+        "kind": 6,
+        "importPath": "referencia.src.app.application.user.create_user",
+        "description": "referencia.src.app.application.user.create_user",
+        "peekOfCode": "class CreateUserRequest:\n    name: str\n@dataclass\nclass CreateUserResponse:\n    id: UUID\n    name: str\nclass CreateUser:\n    def __init__(self, repository: UserRepositoryInterface):\n        self.repository = repository\n    def execute(self, request: CreateUserRequest) -> CreateUserResponse:",
+        "detail": "referencia.src.app.application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserResponse",
+        "kind": 6,
+        "importPath": "referencia.src.app.application.user.create_user",
+        "description": "referencia.src.app.application.user.create_user",
+        "peekOfCode": "class CreateUserResponse:\n    id: UUID\n    name: str\nclass CreateUser:\n    def __init__(self, repository: UserRepositoryInterface):\n        self.repository = repository\n    def execute(self, request: CreateUserRequest) -> CreateUserResponse:\n        user = User(id=uuid4(), name=request.name)\n        self.repository.save(user=user)\n        return CreateUserResponse(id=user.id, name=user.name)",
+        "detail": "referencia.src.app.application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.application.user.create_user",
+        "description": "referencia.src.app.application.user.create_user",
+        "peekOfCode": "class CreateUser:\n    def __init__(self, repository: UserRepositoryInterface):\n        self.repository = repository\n    def execute(self, request: CreateUserRequest) -> CreateUserResponse:\n        user = User(id=uuid4(), name=request.name)\n        self.repository.save(user=user)\n        return CreateUserResponse(id=user.id, name=user.name)",
+        "detail": "referencia.src.app.application.user.create_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserRequest",
+        "kind": 6,
+        "importPath": "referencia.src.app.application.user.find_user",
+        "description": "referencia.src.app.application.user.find_user",
+        "peekOfCode": "class FindUserRequest:\n    id: UUID\n@dataclass\nclass FindUserResponse:\n    id: UUID\n    name: str\nclass FindUser:\n    def __init__(self, repository: UserRepositoryInterface):\n        self.repository = repository\n    def execute(self, request: FindUserRequest) -> FindUserResponse:",
+        "detail": "referencia.src.app.application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUserResponse",
+        "kind": 6,
+        "importPath": "referencia.src.app.application.user.find_user",
+        "description": "referencia.src.app.application.user.find_user",
+        "peekOfCode": "class FindUserResponse:\n    id: UUID\n    name: str\nclass FindUser:\n    def __init__(self, repository: UserRepositoryInterface):\n        self.repository = repository\n    def execute(self, request: FindUserRequest) -> FindUserResponse:\n        user = self.repository.get_by_id(user_id=request.id)\n        return FindUserResponse(id=user.id, name=user.name)",
+        "detail": "referencia.src.app.application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "FindUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.application.user.find_user",
+        "description": "referencia.src.app.application.user.find_user",
+        "peekOfCode": "class FindUser:\n    def __init__(self, repository: UserRepositoryInterface):\n        self.repository = repository\n    def execute(self, request: FindUserRequest) -> FindUserResponse:\n        user = self.repository.get_by_id(user_id=request.id)\n        return FindUserResponse(id=user.id, name=user.name)",
+        "detail": "referencia.src.app.application.user.find_user",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "referencia.src.app.domain.task.task_entity",
+        "description": "referencia.src.app.domain.task.task_entity",
+        "peekOfCode": "class Task:\n    id: UUID\n    user_id: UUID\n    title: str\n    description: str\n    completed: bool\n    def __init__(\n        self, id: UUID, user_id: UUID, title: str, description: str, completed: bool\n    ):\n        self.id = id",
+        "detail": "referencia.src.app.domain.task.task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "referencia.src.app.domain.user.user_entity",
+        "description": "referencia.src.app.domain.user.user_entity",
+        "peekOfCode": "class User:\n    id: UUID\n    name: str\n    tasks: List[Task]\n    def __init__(self, id: UUID, name: str):\n        self.id = id\n        self.name = name\n        self.tasks = []\n        self.validate()\n    def validate(self):",
+        "detail": "referencia.src.app.domain.user.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryInterface",
+        "kind": 6,
+        "importPath": "referencia.src.app.domain.user.user_repository_interface",
+        "description": "referencia.src.app.domain.user.user_repository_interface",
+        "peekOfCode": "class UserRepositoryInterface(ABC):\n    @abstractmethod\n    def save(self, user: User) -> None:\n        raise NotImplementedError\n    @abstractmethod\n    def get_by_id(self, user_id: UUID) -> User:\n        raise NotImplementedError\n    @abstractmethod\n    def update(self, user: User) -> None:\n        raise NotImplementedError",
+        "detail": "referencia.src.app.domain.user.user_repository_interface",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "referencia.src.app.infra.api.routers.user_routers",
+        "description": "referencia.src.app.infra.api.routers.user_routers",
+        "peekOfCode": "def create_user(request: CreateUserRequest):\n    try:\n        # Inicializa o caso de uso de criação de usuário, passando o repositório\n        usecase = CreateUser(repository)\n        # Executa o caso de uso com os dados da requisição e retorna o resultado\n        output = usecase.execute(request)\n        return output\n    except Exception as e:\n        # Em caso de erro, retorna um erro HTTP 404 com a mensagem detalhada da exceção\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "referencia.src.app.infra.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "find_user",
+        "kind": 2,
+        "importPath": "referencia.src.app.infra.api.routers.user_routers",
+        "description": "referencia.src.app.infra.api.routers.user_routers",
+        "peekOfCode": "def find_user(user_id: UUID):\n    try:\n        # Inicializa o caso de uso de busca de usuário, passando o repositório\n        usecase = FindUser(repository)\n        # Executa o caso de uso com o ID do usuário e retorna o resultado\n        output = usecase.execute(FindUserRequest(id=user_id))\n        return output\n    except Exception as e:\n        # Em caso de erro, retorna um erro HTTP 404 com a mensagem detalhada da exceção\n        raise HTTPException(status_code=404, detail=str(e))",
+        "detail": "referencia.src.app.infra.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "referencia.src.app.infra.api.routers.user_routers",
+        "description": "referencia.src.app.infra.api.routers.user_routers",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\", tags=[\"Users\"])\n# Instancia um repositório de usuários em memória (simulado), que armazena os dados temporariamente\nrepository = InMemoryUserRepository()\n# Endpoint para criação de um novo usuário\n@router.post(\"/\")\ndef create_user(request: CreateUserRequest):\n    try:\n        # Inicializa o caso de uso de criação de usuário, passando o repositório\n        usecase = CreateUser(repository)\n        # Executa o caso de uso com os dados da requisição e retorna o resultado",
+        "detail": "referencia.src.app.infra.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "repository",
+        "kind": 5,
+        "importPath": "referencia.src.app.infra.api.routers.user_routers",
+        "description": "referencia.src.app.infra.api.routers.user_routers",
+        "peekOfCode": "repository = InMemoryUserRepository()\n# Endpoint para criação de um novo usuário\n@router.post(\"/\")\ndef create_user(request: CreateUserRequest):\n    try:\n        # Inicializa o caso de uso de criação de usuário, passando o repositório\n        usecase = CreateUser(repository)\n        # Executa o caso de uso com os dados da requisição e retorna o resultado\n        output = usecase.execute(request)\n        return output",
+        "detail": "referencia.src.app.infra.api.routers.user_routers",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "referencia.src.app.infra.api.main",
+        "description": "referencia.src.app.infra.api.main",
+        "peekOfCode": "app = FastAPI()\n# Inclui o roteador de usuários na aplicação principal, registrando todos os endpoints definidos\napp.include_router(user_routers.router)",
+        "detail": "referencia.src.app.infra.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryUserRepository",
+        "kind": 6,
+        "importPath": "referencia.src.app.infra.user.in_memory_user_repository",
+        "description": "referencia.src.app.infra.user.in_memory_user_repository",
+        "peekOfCode": "class InMemoryUserRepository(UserRepositoryInterface):\n    def __init__(self, users: list[User] = None):\n        self.users: list[User] = users or []\n    def save(self, user: User) -> None:\n        self.users.append(user)\n    def get_by_id(self, user_id: UUID) -> Optional[User]:\n        return next((user for user in self.users if user.id == user_id), None)\n    def delete(self, user_id: UUID) -> None:\n        user = self.get_by_id(user_id)\n        if user:",
+        "detail": "referencia.src.app.infra.user.in_memory_user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TestUserWithTask",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.domain.integration.test_user_entity",
+        "description": "referencia.src.app.tests.domain.integration.test_user_entity",
+        "peekOfCode": "class TestUserWithTask:\n    # Teste para adicionar tarefas ao usuário\n    def test_collect_tasks(self):\n        user = User(id=uuid4(), name=\"Test User\")\n        task1 = Task(\n            id=uuid4(),\n            user_id=user.id,\n            title=\"Task 1\",\n            description=\"Description 1\",\n            completed=False,",
+        "detail": "referencia.src.app.tests.domain.integration.test_user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TestTask",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.domain.unit.test_task_entity",
+        "description": "referencia.src.app.tests.domain.unit.test_task_entity",
+        "peekOfCode": "class TestTask:\n    # Teste para verificar a inicialização de uma tarefa\n    def test_task_initialization(self):\n        task_id = uuid4()\n        user_id = uuid4()\n        title = \"Test Task\"\n        description = \"This is a test task.\"\n        completed = False\n        task = Task(\n            id=task_id,",
+        "detail": "referencia.src.app.tests.domain.unit.test_task_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TestUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.domain.unit.test_user_entity",
+        "description": "referencia.src.app.tests.domain.unit.test_user_entity",
+        "peekOfCode": "class TestUser:\n    # Teste para inicialização do usuário\n    def test_user_initialization(self):\n        user_id = uuid4()\n        user_name = \"Test User\"\n        user = User(id=user_id, name=user_name)\n        assert user.id == user_id\n        assert user.name == user_name\n        assert user.tasks == []\n    # Teste para validação do ID do usuário",
+        "detail": "referencia.src.app.tests.domain.unit.test_user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "test_can_create_user",
+        "kind": 2,
+        "importPath": "referencia.src.app.tests.infra.e2e.test_can_create_user",
+        "description": "referencia.src.app.tests.infra.e2e.test_can_create_user",
+        "peekOfCode": "def test_can_create_user():\n    # Envia uma requisição POST para o endpoint \"/users/\" para criar um novo usuário\n    created_user_response = client.post(\n        \"/users/\",\n        json={\"name\": \"João\"},\n    )\n    # Extrai os dados JSON da resposta da criação do usuário\n    created_user_data = created_user_response.json()\n    # Verifica se a resposta ao criar o usuário foi bem-sucedida (código 200)\n    assert created_user_response.status_code == 200",
+        "detail": "referencia.src.app.tests.infra.e2e.test_can_create_user",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "referencia.src.app.tests.infra.e2e.test_can_create_user",
+        "description": "referencia.src.app.tests.infra.e2e.test_can_create_user",
+        "peekOfCode": "client = TestClient(app)\ndef test_can_create_user():\n    # Envia uma requisição POST para o endpoint \"/users/\" para criar um novo usuário\n    created_user_response = client.post(\n        \"/users/\",\n        json={\"name\": \"João\"},\n    )\n    # Extrai os dados JSON da resposta da criação do usuário\n    created_user_data = created_user_response.json()\n    # Verifica se a resposta ao criar o usuário foi bem-sucedida (código 200)",
+        "detail": "referencia.src.app.tests.infra.e2e.test_can_create_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_can_get_user_by_id",
+        "kind": 2,
+        "importPath": "referencia.src.app.tests.infra.e2e.test_can_get_user_by_id",
+        "description": "referencia.src.app.tests.infra.e2e.test_can_get_user_by_id",
+        "peekOfCode": "def test_can_get_user_by_id():\n    # Cria um novo usuário enviando uma requisição POST para o endpoint \"/users/\"\n    created_user_response = client.post(\n        \"/users/\",\n        json={\"name\": \"João\"},\n    )\n    # Extrai os dados JSON da resposta da criação do usuário\n    created_user_data = created_user_response.json()\n    # Envia uma requisição GET para obter o usuário criado pelo ID gerado\n    finded_user_response = client.get(f\"/users/{created_user_data['id']}\")",
+        "detail": "referencia.src.app.tests.infra.e2e.test_can_get_user_by_id",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "referencia.src.app.tests.infra.e2e.test_can_get_user_by_id",
+        "description": "referencia.src.app.tests.infra.e2e.test_can_get_user_by_id",
+        "peekOfCode": "client = TestClient(app)\ndef test_can_get_user_by_id():\n    # Cria um novo usuário enviando uma requisição POST para o endpoint \"/users/\"\n    created_user_response = client.post(\n        \"/users/\",\n        json={\"name\": \"João\"},\n    )\n    # Extrai os dados JSON da resposta da criação do usuário\n    created_user_data = created_user_response.json()\n    # Envia uma requisição GET para obter o usuário criado pelo ID gerado",
+        "detail": "referencia.src.app.tests.infra.e2e.test_can_get_user_by_id",
+        "documentation": {}
+    },
+    {
+        "label": "TestSaveUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "description": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "peekOfCode": "class TestSaveUser:\n    # Testa se é possível salvar usuários no repositório\n    def test_can_save_user(self):\n        repository = (\n            InMemoryUserRepository()\n        )  # Cria uma instância do repositório em memória\n        user1 = User(\n            id=uuid4(), name=\"João\"\n        )  # Cria o primeiro usuário com um UUID único\n        user2 = User(",
+        "detail": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TestGetUserById",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "description": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "peekOfCode": "class TestGetUserById:\n    # Testa se é possível buscar um usuário pelo ID\n    def test_can_get_user_by_id(self):\n        repository = (\n            InMemoryUserRepository()\n        )  # Cria uma instância do repositório em memória\n        user1 = User(id=uuid4(), name=\"João\")  # Cria o primeiro usuário\n        user2 = User(id=uuid4(), name=\"Maria\")  # Cria o segundo usuário\n        repository.save(user1)  # Salva o primeiro usuário\n        repository.save(user2)  # Salva o segundo usuário",
+        "detail": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TestDeleteUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "description": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "peekOfCode": "class TestDeleteUser:\n    # Testa se é possível deletar um usuário pelo ID\n    def test_delete_user(self):\n        repository = (\n            InMemoryUserRepository()\n        )  # Cria uma instância do repositório em memória\n        user1 = User(id=uuid4(), name=\"João\")  # Cria o primeiro usuário\n        user2 = User(id=uuid4(), name=\"Maria\")  # Cria o segundo usuário\n        repository.save(user1)  # Salva o primeiro usuário\n        repository.save(user2)  # Salva o segundo usuário",
+        "detail": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TestUpdateUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "description": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "peekOfCode": "class TestUpdateUser:\n    # Testa se é possível atualizar um usuário existente\n    def test_update_user(self):\n        repository = (\n            InMemoryUserRepository()\n        )  # Cria uma instância do repositório em memória\n        user1 = User(id=uuid4(), name=\"João\")  # Cria o primeiro usuário\n        user2 = User(id=uuid4(), name=\"Maria\")  # Cria o segundo usuário\n        repository.save(user1)  # Salva o primeiro usuário\n        repository.save(user2)  # Salva o segundo usuário",
+        "detail": "referencia.src.app.tests.infra.unit.test_user_in_memory_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TestCreateUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.usecases.integration.test_create_user",
+        "description": "referencia.src.app.tests.usecases.integration.test_create_user",
+        "peekOfCode": "class TestCreateUser:\n    def test_create_user_with_valid_data(self):\n        # Inicializa um repositório de usuários em memória\n        repository = InMemoryUserRepository()\n        # Instancia o caso de uso de criação de usuário, passando o repositório como dependência\n        use_case = CreateUser(repository=repository)\n        # Cria uma requisição com dados válidos para o usuário, usando o nome \"João\"\n        request = CreateUserRequest(name=\"João\")\n        # Executa o caso de uso com a requisição e armazena a resposta\n        response = use_case.execute(request)",
+        "detail": "referencia.src.app.tests.usecases.integration.test_create_user",
+        "documentation": {}
+    },
+    {
+        "label": "TestFindUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.usecases.integration.test_find_user",
+        "description": "referencia.src.app.tests.usecases.integration.test_find_user",
+        "peekOfCode": "class TestFindUser:\n    def test_find_user_by_id(self):\n        # Cria um repositório de usuários em memória\n        repository = InMemoryUserRepository()\n        # Cria e adiciona um usuário ao repositório\n        user_id = uuid4()\n        user = User(id=user_id, name=\"João\")\n        repository.save(user)\n        # Instancia o caso de uso de busca de usuário, passando o repositório como dependência\n        use_case = FindUser(repository=repository)",
+        "detail": "referencia.src.app.tests.usecases.integration.test_find_user",
+        "documentation": {}
+    },
+    {
+        "label": "TestCreateUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.usecases.unit.test_create_user",
+        "description": "referencia.src.app.tests.usecases.unit.test_create_user",
+        "peekOfCode": "class TestCreateUser:\n    def test_create_user_with_valid_data(self):\n        mock_repository = MagicMock(UserRepositoryInterface)\n        use_case = CreateUser(repository=mock_repository)\n        request = CreateUserRequest(name=\"João\")\n        response = use_case.execute(request)\n        assert response.id is not None\n        assert isinstance(response, CreateUserResponse)\n        assert isinstance(response.id, UUID)\n        assert mock_repository.save.called is True",
+        "detail": "referencia.src.app.tests.usecases.unit.test_create_user",
+        "documentation": {}
+    },
+    {
+        "label": "TestFindUser",
+        "kind": 6,
+        "importPath": "referencia.src.app.tests.usecases.unit.test_find_user",
+        "description": "referencia.src.app.tests.usecases.unit.test_find_user",
+        "peekOfCode": "class TestFindUser:\n    def test_when_user_exists_then_return_response_dto(self):\n        mock_user = User(id=uuid4(), name=\"João\")\n        mock_repository = create_autospec(UserRepositoryInterface)\n        mock_repository.get_by_id.return_value = mock_user\n        use_case = FindUser(repository=mock_repository)\n        request = FindUserRequest(id=mock_user.id)\n        response = use_case.execute(request)\n        assert response == FindUserResponse(id=mock_user.id, name=\"João\")\n    def test_when_user_not_found_then_raise_exception(self):",
+        "detail": "referencia.src.app.tests.usecases.unit.test_find_user",
+        "documentation": {}
+    }
+]
